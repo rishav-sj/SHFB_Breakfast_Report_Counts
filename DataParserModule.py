@@ -1,7 +1,7 @@
 import csv
 from MealMonthSchoolModule import MealMonthSchool
 
-DATA_FILE_NAME='San_Mateo_Santa_Clara_Meals.csv'
+DATA_FILE_NAME='San_Mateo_Santa_Clara_Meals_Meals_Served.csv'
 EXPECTED_SIZE_OF_ROW=13
 
 class DataParser:
@@ -53,4 +53,4 @@ class DataParser:
 				isHeaderRow = False
 		return siteNameDictionary, schoolNameDictionary, mealMonthSchools
 
-#siteNameDictionary, schoolNameDictionary, mealMonthSchools = DataParser().parseData()
+siteNameDictionary, schoolNameDictionary, mealMonthSchools = DataParser().parseData()
