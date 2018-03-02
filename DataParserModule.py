@@ -29,16 +29,29 @@ class DataParser:
 		mealsServedTotal = self.longify(row[12])
 		return MealMonthSchool(county, programGroupYear, fnsReportData, order, programGroupYear, name, cdsCode, siteName, mealTypeCode, mealsServedFree, mealsServedReducedPrice, mealsServedPaid, mealsServedTotal)
 
+	def addToDict(self, key, someDictionary, valueToAdd):
+		if (not(key in someDictionary)):
+			someDictionary[key] = []
+		someDictionary[key].append(valueToAdd)
+
 	def parseData(self):
 		mealMonthSchools = []
 		file = open(DATA_FILE_NAME)
 		fileCsvReader = csv.reader(file)
 		isHeaderRow = True
+		schoolNameDictionary = {}
+		siteNameDictionary = {}
 		for row in fileCsvReader:
 			if (not(isHeaderRow)):
-				mealMonthSchools.append(self.parseRow(row))
+				mealMonthSchool = self.parseRow(row)
+				schoolName = mealMonthSchool.name
+				siteName = mealMonthSchool.uniqueSiteName()
+				self.addToDict(schoolName, schoolNameDictionary, mealMonthSchool)
+				self.addToDict(siteName, siteNameDictionary, mealMonthSchool)
+				print siteName
+				mealMonthSchools.append(mealMonthSchool)
 			else:
 				isHeaderRow = False
-		return mealMonthSchools
+		return siteNameDictionary, schoolNameDictionary, mealMonthSchools
 
-print DataParser().parseData()
+#siteNameDictionary, schoolNameDictionary, mealMonthSchools = DataParser().parseData()
