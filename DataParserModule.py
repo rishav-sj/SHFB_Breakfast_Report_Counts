@@ -16,7 +16,7 @@ class DataParser:
 		assert len(row) == EXPECTED_SIZE_OF_ROW
 		county = row[0]
 		programGroupYear = row[1]
-		fnsReportData = row[2]
+		fnsReportDate = row[2]
 		order = row[3]
 		programCode = row[4]
 		name = row[5]
@@ -27,7 +27,7 @@ class DataParser:
 		mealsServedReducedPrice = self.longify(row[10])
 		mealsServedPaid = self.longify(row[11])
 		mealsServedTotal = self.longify(row[12])
-		return MealMonthSchool(county, programGroupYear, fnsReportData, order, programGroupYear, name, cdsCode, siteName, mealTypeCode, mealsServedFree, mealsServedReducedPrice, mealsServedPaid, mealsServedTotal)
+		return MealMonthSchool(county, programGroupYear, fnsReportDate, order, programGroupYear, name, cdsCode, siteName, mealTypeCode, mealsServedFree, mealsServedReducedPrice, mealsServedPaid, mealsServedTotal)
 
 	def addToDict(self, key, someDictionary, valueToAdd):
 		if (not(key in someDictionary)):
@@ -41,6 +41,7 @@ class DataParser:
 		isHeaderRow = True
 		schoolNameDictionary = {}
 		siteNameDictionary = {}
+		schoolDistrictToCountyMap = {}
 		for row in fileCsvReader:
 			if (not(isHeaderRow)):
 				mealMonthSchool = self.parseRow(row)
@@ -48,15 +49,16 @@ class DataParser:
 				siteName = mealMonthSchool.uniqueSiteName()
 				self.addToDict(schoolName, schoolNameDictionary, mealMonthSchool)
 				self.addToDict(siteName, siteNameDictionary, mealMonthSchool)
+				schoolDistrictToCountyMap[mealMonthSchool.name] = mealMonthSchool.county
 				mealMonthSchools.append(mealMonthSchool)
 			else:
 				isHeaderRow = False
-		return siteNameDictionary, schoolNameDictionary, mealMonthSchools
+		return schoolDistrictToCountyMap, siteNameDictionary, schoolNameDictionary, mealMonthSchools
 
 #siteNameDictionary, schoolNameDictionary, mealMonthSchools = DataParser().parseData()
 
 
 # Unique Meal Type Codes
 # NSLP - National School Lunch Program
-# 
+# SSFO 
 #set(['SSFO_LUNCH', 'SSFO_BREAKFAST_SEVERENEED', 'NSLP_BREAKFAST', 'NSLP_LUNCH', 'NSLP_BREAKFAST_SEVERENEED'])
