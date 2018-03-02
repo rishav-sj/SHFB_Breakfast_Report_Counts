@@ -48,7 +48,6 @@ class DataParser:
 				siteName = mealMonthSchool.uniqueSiteName()
 				self.addToDict(schoolName, schoolNameDictionary, mealMonthSchool)
 				self.addToDict(siteName, siteNameDictionary, mealMonthSchool)
-				print siteName
 				mealMonthSchools.append(mealMonthSchool)
 			else:
 				isHeaderRow = False
