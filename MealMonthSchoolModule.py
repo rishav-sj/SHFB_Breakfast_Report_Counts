@@ -1,9 +1,9 @@
 class MealMonthSchool:
 
-	def __init__(self, county, programGroupYear, fnsReportData, order, programCode, name, cdsCode, siteName, mealTypeCode, mealsServedFree, mealsServedReducedPrice, mealsServedPaid, mealsServedTotal):
+	def __init__(self, county, programGroupYear, fnsReportDate, order, programCode, name, cdsCode, siteName, mealTypeCode, mealsServedFree, mealsServedReducedPrice, mealsServedPaid, mealsServedTotal):
 		self.county = county
 		self.programGroupYear = programGroupYear
-		self.fnsReportData = fnsReportData
+		self.fnsReportDate = fnsReportDate
 		self.order = order
 		self.programCode = programCode
 		self.name = name # Name of the school district
@@ -16,7 +16,7 @@ class MealMonthSchool:
 		self.mealsServedTotal = mealsServedTotal
 
 	def __str__(self):
-		return "{" + "County: " + self.county + ", " + "ProgramGroupYear: " + self.programGroupYear + ", " + "PrgramCode: " + self.programCode + ", " + "SiteName: " + self.siteName + "}"
+		return "{" + "County: " + self.county + ", " + "FNSReportDate: " + self.fnsReportDate + ", " + "PrgramCode: " + self.programCode + ", " + "SiteName: " + self.siteName + "}"
 
 	def uniqueSiteName(self):
 		# Complete site name (includes the name of the district)
