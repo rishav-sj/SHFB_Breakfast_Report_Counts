@@ -53,4 +53,10 @@ class DataParser:
 				isHeaderRow = False
 		return siteNameDictionary, schoolNameDictionary, mealMonthSchools
 
-siteNameDictionary, schoolNameDictionary, mealMonthSchools = DataParser().parseData()
+#siteNameDictionary, schoolNameDictionary, mealMonthSchools = DataParser().parseData()
+
+
+# Unique Meal Type Codes
+# NSLP - National School Lunch Program
+# 
+#set(['SSFO_LUNCH', 'SSFO_BREAKFAST_SEVERENEED', 'NSLP_BREAKFAST', 'NSLP_LUNCH', 'NSLP_BREAKFAST_SEVERENEED'])
