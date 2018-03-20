@@ -16,9 +16,12 @@ class SchoolDistrictFRPMData:
 	def __str__(self):
 		if (self.totalStudents == 0):
 			return 'No Students'
-		freeEligiblePercentage = 100.00*(float(self.totalFreeEligibleStudents)/float(self.totalStudents))
-		reducedPriceEligiblePercentage = 100.00*(float(self.totalReducedPriceEligibleStudents)/float(self.totalStudents))
-		return "{" + self.schoolDistrictName + "(" + str(int(freeEligiblePercentage)) + "%," + str(int(reducedPriceEligiblePercentage)) + "%)}"
+
+		freeEligibleStr = str(self.totalFreeEligibleStudents)
+		reducedPriceStr = str(self.totalReducedPriceEligibleStudents)
+		totalStudentsStr = str(self.totalStudents)
+
+		return self.schoolDistrictName + "," + self.county + "," + totalStudentsStr + "," + freeEligibleStr + "," + reducedPriceStr
 
 class FRPMDataParser:
 
@@ -85,7 +88,3 @@ class FRPMDataParser:
 			else:
 				isHeaderRow = False
 		return self.condense(FRPMData)
-
-finalList = FRPMDataParser().parseData()
-for elem in finalList:
-	print str(elem)
