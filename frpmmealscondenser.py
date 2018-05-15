@@ -1,6 +1,28 @@
 import csv
 
-NUM_SCHOOL_DAYS_PER_YEAR = 180
+
+def removeWordDistrict(someName):
+	return someName.replace(' School District', '')
+
+def removeWhitespaces(someString):
+	return someString.lstrip().rstrip().replace('\xef\xbb\xbf','')
+
+def getSchoolDaysMap():
+	schoolDaysMap = {}
+
+	m = open('schooldays.csv')
+	csv_m = csv.reader(m)
+
+	for row in csv_m:
+		if (len(row) == 2 and (row[1])):
+			schoolDistrictName = row[0]
+			schoolDistrictName = removeWhitespaces(removeWordDistrict(schoolDistrictName))
+			schoolDaysMap[schoolDistrictName] = int(row[1])
+
+	m.close()
+	return schoolDaysMap
+
+
 PERCENT_MULTIPLYING_FACTOR = 100
 
 f = open('frpmcondensed.csv')
@@ -12,6 +34,7 @@ csv_g = csv.reader(g)
 
 frpmMap = {}
 mealsMap = {}
+schoolDaysMap = getSchoolDaysMap()
 
 rowNum = 0
 for row in csv_f:
@@ -42,7 +65,7 @@ for key in frpmMap:
 	mealsRow = mealsMap[key]
 
 	county = frpmRow[0]
-	schoolDistrictName = frpmRow[1]
+	schoolDistrictName = removeWhitespaces(frpmRow[1])
 	totalStudents = long(frpmRow[2])
 	freeEligible = long(frpmRow[3])
 	rpEligible = long(frpmRow[4])
@@ -56,9 +79,14 @@ for key in frpmMap:
 	rpLunches = long(mealsRow[6])
 	paidLunches = long(mealsRow[7])
 
+	if (not (schoolDistrictName in schoolDaysMap)):
+		print 'No entry for school district with name ' + schoolDistrictName
+
+	numSchoolDaysPerYear = schoolDaysMap[schoolDistrictName]
+
 	frpmEligiblePercent = PERCENT_MULTIPLYING_FACTOR * (freeEligible + rpEligible)/totalStudents
-	frpmBreakfastServedPercent = PERCENT_MULTIPLYING_FACTOR * (freeBreakfasts + rpBreakfasts)/((freeEligible + rpEligible) * NUM_SCHOOL_DAYS_PER_YEAR)
-	frpmLunchServedPercent = PERCENT_MULTIPLYING_FACTOR * (freeLunches + rpLunches)/((freeEligible + rpEligible) * NUM_SCHOOL_DAYS_PER_YEAR)
+	frpmBreakfastServedPercent = PERCENT_MULTIPLYING_FACTOR * (freeBreakfasts + rpBreakfasts)/((freeEligible + rpEligible) * numSchoolDaysPerYear)
+	frpmLunchServedPercent = PERCENT_MULTIPLYING_FACTOR * (freeLunches + rpLunches)/((freeEligible + rpEligible) * numSchoolDaysPerYear)
 
 	# Source for Reimbursement Info: https://www.cde.ca.gov/ls/nu/rs/rates1516.asp
 	# Expressed here as California reimbursement + Federal reimbursement
