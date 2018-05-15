@@ -21,10 +21,10 @@ g = open('mealscondensed.csv', 'w')
 csv_f = csv.reader(f)
 
 def isBreakfast(mealType):
-    return 'BREAKFAST' in mealType;
+    return ('BREAKFAST' in mealType) and not('SSFO_BREAKFAST' in mealType);
 
 def isLunch(mealType):
-    return 'LUNCH' in mealType;
+    return ('LUNCH' in mealType) and not('SSFO_LUNCH' in mealType);
 
 def isEligibleCounty(countyName):
     return (countyName == 'SAN MATEO') or (countyName == 'SANTA CLARA')
