@@ -58,7 +58,7 @@ for key in frpmMap:
 	if (not(key in mealsMap)):
 		print 'Key not in mealsMap but in frpmMap:' + key
 
-h.write('County, School District, Total Students, Free Eligible, RP Eligible, Paid Eligible, Total Free Breakfasts, Total RP Breakfasts, Total Paid Breakfasts, Total Free Lunches, Total RP Lunches, Total Paid Lunches, FRPM Eligible Percentage, FRPM Breakfast %, FRPM Lunch %, Total Reimbursement, Lost FRPM Dollars, Lost Meals, FRPM Breakfast/Lunch\n')
+h.write('County, School District, Total Students, Free Eligible, RP Eligible, Paid Eligible, Total Free Breakfasts, Total RP Breakfasts, Total Paid Breakfasts, Total Free Lunches, Total RP Lunches, Total Paid Lunches, FRPM Eligible Percentage, FRPM Breakfast %, FRPM Lunch %, Total Breakfast Reimbursement, Total Lunch Reimbursement, Total Reimbursement, Lost FRPM Dollars, Lost Meals, FRPM Breakfast/Lunch\n')
 
 for key in frpmMap:
 	frpmRow = frpmMap[key]
@@ -102,7 +102,10 @@ for key in frpmMap:
 	rpLunchReimbursementRate = (0.2271) + (2.69 if isSevereNeedSchool else 2.67)
 	paidLunchReimbursementRate = (0) + (0.31 if isSevereNeedSchool else 0.29)
 
-	totalReimbursement = (freeBreakfastReimbursementRate * freeBreakfasts) + (rpBreakfastReimbursementRate * rpBreakfasts) + (paidBreakfastReimbursementRate * paidBreakfasts) + (freeLunchReimbursementRate * freeLunches) + (rpLunchReimbursementRate * rpLunches) + (paidLunchReimbursementRate * paidLunches)
+
+	totalBreakfastReimbursement = (freeBreakfastReimbursementRate * freeBreakfasts) + (rpBreakfastReimbursementRate * rpBreakfasts) + (paidBreakfastReimbursementRate * paidBreakfasts)
+	totalLunchReimbursement = (freeLunchReimbursementRate * freeLunches) + (rpLunchReimbursementRate * rpLunches) + (paidLunchReimbursementRate * paidLunches)
+	totalReimbursement =  totalBreakfastReimbursement + totalLunchReimbursement
 
 	totalReimbursementIfServedSameAmountOfBreakfastsAsLunches = (freeBreakfastReimbursementRate * freeLunches) + (rpBreakfastReimbursementRate * rpLunches) + (paidBreakfastReimbursementRate * paidLunches) + (freeLunchReimbursementRate * freeLunches) + (rpLunchReimbursementRate * rpLunches) + (paidLunchReimbursementRate * paidLunches)
 
@@ -114,7 +117,7 @@ for key in frpmMap:
 
 	h.write(frpmRow[0] + "," + frpmRow[1] + "," + frpmRow[2] + "," + frpmRow[3] + "," + frpmRow[4] + "," + frpmRow[5] + ",")
 	h.write(mealsRow[2] + "," + mealsRow[3] + "," + mealsRow[4] + "," + mealsRow[5] + "," + mealsRow[6] + "," + mealsRow[7] + ",")
-	h.write(str(frpmEligiblePercent) + "," + str(frpmBreakfastServedPercent) + "," + str(frpmLunchServedPercent) + "," + str(totalReimbursement) + "," + str(lostFRPMDollars) + "," + str(lostMeals) + "," + str(frpmBreafastOverLunch))
+	h.write(str(frpmEligiblePercent) + "," + str(frpmBreakfastServedPercent) + "," + str(frpmLunchServedPercent) + "," + str(totalBreakfastReimbursement) + "," + str(totalLunchReimbursement) + "," + str(totalReimbursement) + "," + str(lostFRPMDollars) + "," + str(lostMeals) + "," + str(frpmBreafastOverLunch))
 	h.write('\n')
 
 
