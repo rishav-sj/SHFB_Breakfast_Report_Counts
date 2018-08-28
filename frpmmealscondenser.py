@@ -94,13 +94,13 @@ for key in frpmMap:
 	isSevereNeedSchool = frpmEligiblePercent >= 0.6
 	isEspeciallyNeedy = frpmEligiblePercent >= 0.4
 
-	freeBreakfastReimbursementRate = (0.2271) + (1.99 if isEspeciallyNeedy else 1.66)
-	rpBreakfastReimbursementRate = (0.2271) + (1.69 if isEspeciallyNeedy else 1.36)
+	freeBreakfastReimbursementRate = (0.2271) + (2.04 if isEspeciallyNeedy else 1.71)
+	rpBreakfastReimbursementRate = (0.2271) + (1.74 if isEspeciallyNeedy else 1.41)
 	paidBreakfastReimbursementRate = (0) + (0.29)
 
-	freeLunchReimbursementRate = (0.2271) + (3.09 if isSevereNeedSchool else 3.07)
-	rpLunchReimbursementRate = (0.2271) + (2.69 if isSevereNeedSchool else 2.67)
-	paidLunchReimbursementRate = (0) + (0.31 if isSevereNeedSchool else 0.29)
+	freeLunchReimbursementRate = (0.2271) + (3.18 if isSevereNeedSchool else 3.16)
+	rpLunchReimbursementRate = (0.2271) + (2.78 if isSevereNeedSchool else 2.76)
+	paidLunchReimbursementRate = (0) + (0.32 if isSevereNeedSchool else 0.30)
 
 
 	totalBreakfastReimbursement = (freeBreakfastReimbursementRate * freeBreakfasts) + (rpBreakfastReimbursementRate * rpBreakfasts) + (paidBreakfastReimbursementRate * paidBreakfasts)
