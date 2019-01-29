@@ -1,0 +1,811 @@
+CountyDesc,FnsReportDate,ProgramCode,ProgramGroupCode,Name,SiteName,MealTypeCode,MlsServedFree,MlsServedRedc,MlsServedPaid,MlsServedTotal,ProgramGroupYear
+SANTA CLARA,Aug 2018,SSFO,NSLP,Mount Pleasant Elementary School District,Mt. Pleasant Elementary                                         ,SSFO_BREAKFAST_SEVERENEED,126,0,0,126,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,Mount Pleasant Elementary School District,Mt. Pleasant Elementary                                         ,SSFO_LUNCH,224,0,0,224,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,Mount Pleasant Elementary School District,Mt. Pleasant Elementary                                         ,SSFO_BREAKFAST_SEVERENEED,126,0,0,126,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,Mount Pleasant Elementary School District,Mt. Pleasant Elementary                                         ,SSFO_LUNCH,224,0,0,224,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,LUTHER BURBANK SCHOOL DISTRICT,Luther Burbank Elementary                                       ,SSFO_BREAKFAST_SEVERENEED,74,0,0,74,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,LUTHER BURBANK SCHOOL DISTRICT,Luther Burbank Elementary                                       ,SSFO_LUNCH,100,0,0,100,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,LUTHER BURBANK SCHOOL DISTRICT,Luther Burbank Elementary                                       ,SSFO_BREAKFAST_SEVERENEED,74,0,0,74,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,LUTHER BURBANK SCHOOL DISTRICT,Luther Burbank Elementary                                       ,SSFO_LUNCH,100,0,0,100,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,San Jose Unified School District,ALMADEN ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,255,0,0,255,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,San Jose Unified School District,ALMADEN ELEMENTARY,SSFO_LUNCH,409,0,0,409,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,San Jose Unified School District,ALMADEN ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,255,0,0,255,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,San Jose Unified School District,ALMADEN ELEMENTARY,SSFO_LUNCH,409,0,0,409,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,South San Francisco Unified School District,Parkway Heights Middle                                          ,SSFO_BREAKFAST_SEVERENEED,395,0,0,395,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,South San Francisco Unified School District,Parkway Heights Middle                                          ,SSFO_LUNCH,1063,0,0,1063,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,South San Francisco Unified School District,SPRUCE ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,1170,0,0,1170,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,South San Francisco Unified School District,SPRUCE ELEMENTARY,SSFO_LUNCH,1176,0,0,1176,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,South San Francisco Unified School District,SUNSHINE GARDENS ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,839,0,0,839,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,South San Francisco Unified School District,SUNSHINE GARDENS ELEMENTARY,SSFO_LUNCH,1312,0,0,1312,2018
+SAN MATEO,Aug 2018,SSFO,NSLP,San Bruno Park Elementary School District,BELLE AIR ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,400,0,0,400,2018
+SAN MATEO,Aug 2018,SSFO,NSLP,San Bruno Park Elementary School District,BELLE AIR ELEMENTARY,SSFO_LUNCH,460,0,0,460,2018
+SAN MATEO,Aug 2018,SSFO,NSLP,San Bruno Park Elementary School District,BELLE AIR ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,400,0,0,400,2018
+SAN MATEO,Aug 2018,SSFO,NSLP,San Bruno Park Elementary School District,BELLE AIR ELEMENTARY,SSFO_LUNCH,460,0,0,460,2018
+SAN MATEO,Aug 2018,SSFO,NSLP,Redwood City Elementary School District,TAFT ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,141,0,0,141,2018
+SAN MATEO,Aug 2018,SSFO,NSLP,Redwood City Elementary School District,TAFT ELEMENTARY,SSFO_LUNCH,137,0,0,137,2018
+SAN MATEO,Aug 2018,SSFO,NSLP,Redwood City Elementary School District,FAIR OAKS ELEMENTARY,SSFO_LUNCH,172,0,0,172,2018
+SAN MATEO,Aug 2018,SSFO,NSLP,Redwood City Elementary School District,SELBY LANE ELEMENTARY,SSFO_LUNCH,155,0,0,155,2018
+SAN MATEO,Aug 2018,SSFO,NSLP,Redwood City Elementary School District,JOHN GILL ELEMENTARY,SSFO_LUNCH,136,0,0,136,2018
+SAN MATEO,Aug 2018,SSFO,NSLP,Redwood City Elementary School District,TAFT ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,141,0,0,141,2018
+SAN MATEO,Aug 2018,SSFO,NSLP,Redwood City Elementary School District,TAFT ELEMENTARY,SSFO_LUNCH,137,0,0,137,2018
+SAN MATEO,Aug 2018,SSFO,NSLP,Redwood City Elementary School District,FAIR OAKS ELEMENTARY,SSFO_LUNCH,172,0,0,172,2018
+SAN MATEO,Aug 2018,SSFO,NSLP,Redwood City Elementary School District,SELBY LANE ELEMENTARY,SSFO_LUNCH,155,0,0,155,2018
+SAN MATEO,Aug 2018,SSFO,NSLP,Redwood City Elementary School District,JOHN GILL ELEMENTARY,SSFO_LUNCH,136,0,0,136,2018
+SAN MATEO,Aug 2018,SSFO,NSLP,Millbrae Elementary School District,LOMITA PARK ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,625,0,0,625,2018
+SAN MATEO,Aug 2018,SSFO,NSLP,Millbrae Elementary School District,LOMITA PARK ELEMENTARY,SSFO_LUNCH,1242,0,0,1242,2018
+SAN MATEO,Aug 2018,SSFO,NSLP,Millbrae Elementary School District,LOMITA PARK ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,625,0,0,625,2018
+SAN MATEO,Aug 2018,SSFO,NSLP,Millbrae Elementary School District,LOMITA PARK ELEMENTARY,SSFO_LUNCH,1242,0,0,1242,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,Campbell Union School District,CASTLEMONT ELEMENTARY,SSFO_LUNCH,220,0,0,220,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,Campbell Union School District,CASTLEMONT ELEMENTARY,SSFO_SNACKPM,720,0,0,720,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,Campbell Union School District,CASTLEMONT ELEMENTARY,SSFO_LUNCH,220,0,0,220,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,Campbell Union School District,CASTLEMONT ELEMENTARY,SSFO_SNACKPM,720,0,0,720,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Campbell Union School District,SHERMAN OAKS ELEMENTARY,SSFO_LUNCH,1173,0,0,1173,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Campbell Union School District,CASTLEMONT ELEMENTARY,SSFO_LUNCH,2433,0,0,2433,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Campbell Union School District,CASTLEMONT ELEMENTARY,SSFO_SNACKPM,2646,0,0,2646,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Campbell Union School District,Rosemary                                                        ,SSFO_LUNCH,1003,0,0,1003,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Campbell Union School District,SHERMAN OAKS ELEMENTARY,SSFO_LUNCH,1173,0,0,1173,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Campbell Union School District,CASTLEMONT ELEMENTARY,SSFO_LUNCH,2433,0,0,2433,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Campbell Union School District,CASTLEMONT ELEMENTARY,SSFO_SNACKPM,2646,0,0,2646,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Campbell Union School District,Rosemary                                                        ,SSFO_LUNCH,1003,0,0,1003,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Millbrae Elementary School District,LOMITA PARK ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,1099,0,0,1099,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Millbrae Elementary School District,LOMITA PARK ELEMENTARY,SSFO_LUNCH,1985,0,0,1985,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,GILROY UNIFIED SCHOOL DISTRICT,ELIOT ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,2342,0,0,2342,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,GILROY UNIFIED SCHOOL DISTRICT,ELIOT ELEMENTARY,SSFO_LUNCH,3540,0,0,3540,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,GILROY UNIFIED SCHOOL DISTRICT,South Valley Middle                                             ,SSFO_BREAKFAST_SEVERENEED,3837,0,0,3837,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,GILROY UNIFIED SCHOOL DISTRICT,South Valley Middle                                             ,SSFO_LUNCH,10248,0,0,10248,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,GILROY UNIFIED SCHOOL DISTRICT,Antonio Del Buono Elementary                                    ,SSFO_BREAKFAST_SEVERENEED,2632,0,0,2632,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,GILROY UNIFIED SCHOOL DISTRICT,Antonio Del Buono Elementary                                    ,SSFO_LUNCH,3461,0,0,3461,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,LUTHER BURBANK SCHOOL DISTRICT,Luther Burbank Elementary                                       ,SSFO_BREAKFAST_SEVERENEED,901,0,0,901,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,LUTHER BURBANK SCHOOL DISTRICT,Luther Burbank Elementary                                       ,SSFO_LUNCH,1372,0,0,1372,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,San Jose Unified School District,CANOAS ELEMENTARY,SSFO_LUNCH,1273,0,0,1273,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,San Jose Unified School District,Liberty High (Alternative),SSFO_LUNCH,94,0,0,94,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,San Jose Unified School District,ALMADEN ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,909,0,0,909,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,San Jose Unified School District,ALMADEN ELEMENTARY,SSFO_LUNCH,1741,0,0,1741,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,San Jose Unified School District,GARDNER ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,307,0,0,307,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,San Jose Unified School District,GARDNER ELEMENTARY,SSFO_LUNCH,533,0,0,533,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,San Jose Unified School District,GUNDERSON HIGH,SSFO_LUNCH,714,0,0,714,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,San Jose Unified School District,PIONEER HIGH,SSFO_LUNCH,477,0,0,477,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,San Jose Unified School District,WASHINGTON ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,465,0,0,465,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,San Jose Unified School District,WASHINGTON ELEMENTARY,SSFO_LUNCH,979,0,0,979,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,San Jose Unified School District,CANOAS ELEMENTARY,SSFO_LUNCH,1273,0,0,1273,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,San Jose Unified School District,Liberty High (Alternative),SSFO_LUNCH,94,0,0,94,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,San Jose Unified School District,ALMADEN ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,909,0,0,909,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,San Jose Unified School District,ALMADEN ELEMENTARY,SSFO_LUNCH,1741,0,0,1741,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,San Jose Unified School District,GARDNER ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,307,0,0,307,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,San Jose Unified School District,GARDNER ELEMENTARY,SSFO_LUNCH,533,0,0,533,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,San Jose Unified School District,GUNDERSON HIGH,SSFO_LUNCH,714,0,0,714,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,San Jose Unified School District,PIONEER HIGH,SSFO_LUNCH,477,0,0,477,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,San Jose Unified School District,WASHINGTON ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,465,0,0,465,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,San Jose Unified School District,WASHINGTON ELEMENTARY,SSFO_LUNCH,979,0,0,979,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,LUTHER BURBANK SCHOOL DISTRICT,Luther Burbank Elementary                                       ,SSFO_BREAKFAST_SEVERENEED,901,0,0,901,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,LUTHER BURBANK SCHOOL DISTRICT,Luther Burbank Elementary                                       ,SSFO_LUNCH,1372,0,0,1372,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Campbell Union High School District,DEL MAR HIGH,SSFO_BREAKFAST_SEVERENEED,4014,0,0,4014,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Campbell Union High School District,DEL MAR HIGH,SSFO_LUNCH,4308,0,0,4308,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Campbell Union High School District,DEL MAR HIGH,SSFO_BREAKFAST_SEVERENEED,4014,0,0,4014,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Campbell Union High School District,DEL MAR HIGH,SSFO_LUNCH,4308,0,0,4308,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Milpitas Unified School District,Milpitas Sports Center,SSFO_LUNCH,3389,0,0,3389,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Milpitas Unified School District,Robert Randall Elementary                                       ,SSFO_LUNCH,1123,0,0,1123,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Milpitas Unified School District,Alexander Rose Elementary                                       ,SSFO_LUNCH,2847,0,0,2847,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,San Bruno Park Elementary School District,BELLE AIR ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,1910,0,0,1910,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,San Bruno Park Elementary School District,BELLE AIR ELEMENTARY,SSFO_LUNCH,2085,0,0,2085,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,San Bruno Park Elementary School District,BELLE AIR ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,1910,0,0,1910,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,San Bruno Park Elementary School District,BELLE AIR ELEMENTARY,SSFO_LUNCH,2085,0,0,2085,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Ravenswood City Elementary School District,BELLE HAVEN ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,3646,0,0,3646,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Ravenswood City Elementary School District,BELLE HAVEN ELEMENTARY,SSFO_LUNCH,3428,0,0,3428,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Ravenswood City Elementary School District,Brentwood Open Site,SSFO_BREAKFAST_SEVERENEED,3101,0,0,3101,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Ravenswood City Elementary School District,Brentwood Open Site,SSFO_LUNCH,3458,0,0,3458,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Ravenswood City Elementary School District,Los Robles-Ronald McNair Academy                                ,SSFO_BREAKFAST_SEVERENEED,1091,0,0,1091,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Ravenswood City Elementary School District,Los Robles-Ronald McNair Academy                                ,SSFO_LUNCH,1261,0,0,1261,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Ravenswood City Elementary School District,BELLE HAVEN ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,3646,0,0,3646,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Ravenswood City Elementary School District,BELLE HAVEN ELEMENTARY,SSFO_LUNCH,3428,0,0,3428,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Ravenswood City Elementary School District,Brentwood Open Site,SSFO_BREAKFAST_SEVERENEED,3101,0,0,3101,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Ravenswood City Elementary School District,Brentwood Open Site,SSFO_LUNCH,3458,0,0,3458,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Ravenswood City Elementary School District,Los Robles-Ronald McNair Academy                                ,SSFO_BREAKFAST_SEVERENEED,1091,0,0,1091,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Ravenswood City Elementary School District,Los Robles-Ronald McNair Academy                                ,SSFO_LUNCH,1261,0,0,1261,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Oak Grove Elementary School District,Boys & Girls Club,SSFO_BREAKFAST,1346,0,0,1346,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Oak Grove Elementary School District,Boys & Girls Club,SSFO_LUNCH,1726,0,0,1726,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Oak Grove Elementary School District,DEL ROBLE ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,1046,0,0,1046,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Oak Grove Elementary School District,DEL ROBLE ELEMENTARY,SSFO_LUNCH,1423,0,0,1423,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Oak Grove Elementary School District,EDENVALE ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,1301,0,0,1301,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Oak Grove Elementary School District,EDENVALE ELEMENTARY,SSFO_LUNCH,2769,0,0,2769,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Oak Grove Elementary School District,Stipe (Samuel) Elementary                                       ,SSFO_BREAKFAST_SEVERENEED,705,0,0,705,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Oak Grove Elementary School District,Stipe (Samuel) Elementary                                       ,SSFO_LUNCH,743,0,0,743,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Oak Grove Elementary School District,Boys & Girls Club,SSFO_BREAKFAST,1346,0,0,1346,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Oak Grove Elementary School District,Boys & Girls Club,SSFO_LUNCH,1726,0,0,1726,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Oak Grove Elementary School District,DEL ROBLE ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,1046,0,0,1046,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Oak Grove Elementary School District,DEL ROBLE ELEMENTARY,SSFO_LUNCH,1423,0,0,1423,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Oak Grove Elementary School District,EDENVALE ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,1301,0,0,1301,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Oak Grove Elementary School District,EDENVALE ELEMENTARY,SSFO_LUNCH,2769,0,0,2769,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Oak Grove Elementary School District,Stipe (Samuel) Elementary                                       ,SSFO_BREAKFAST_SEVERENEED,705,0,0,705,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Oak Grove Elementary School District,Stipe (Samuel) Elementary                                       ,SSFO_LUNCH,743,0,0,743,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,South San Francisco Unified School District,SPRUCE ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,2651,0,0,2651,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,South San Francisco Unified School District,SPRUCE ELEMENTARY,SSFO_LUNCH,2790,0,0,2790,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,South San Francisco Unified School District,SUNSHINE GARDENS ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,2469,0,0,2469,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,South San Francisco Unified School District,SUNSHINE GARDENS ELEMENTARY,SSFO_LUNCH,3332,0,0,3332,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,South San Francisco Unified School District,Parkway Heights Middle                                          ,SSFO_BREAKFAST_SEVERENEED,787,0,0,787,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,South San Francisco Unified School District,Parkway Heights Middle                                          ,SSFO_LUNCH,1828,0,0,1828,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Mount Pleasant Elementary School District,August Boeger Middle                                            ,SSFO_BREAKFAST_SEVERENEED,1649,0,0,1649,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Mount Pleasant Elementary School District,August Boeger Middle                                            ,SSFO_LUNCH,2428,0,0,2428,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Mount Pleasant Elementary School District,Mt. Pleasant Elementary                                         ,SSFO_BREAKFAST_SEVERENEED,30,0,0,30,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Mount Pleasant Elementary School District,Mt. Pleasant Elementary                                         ,SSFO_LUNCH,321,0,0,321,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Mount Pleasant Elementary School District,Robert Sanders Elementary                                       ,SSFO_BREAKFAST_SEVERENEED,382,0,0,382,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Mount Pleasant Elementary School District,Robert Sanders Elementary                                       ,SSFO_LUNCH,742,0,0,742,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,LUTHER BURBANK SCHOOL DISTRICT,Luther Burbank Elementary                                       ,SSFO_BREAKFAST_SEVERENEED,1070,0,0,1070,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,LUTHER BURBANK SCHOOL DISTRICT,Luther Burbank Elementary                                       ,SSFO_LUNCH,1414,0,0,1414,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,LUTHER BURBANK SCHOOL DISTRICT,Luther Burbank Elementary                                       ,SSFO_BREAKFAST_SEVERENEED,1070,0,0,1070,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,LUTHER BURBANK SCHOOL DISTRICT,Luther Burbank Elementary                                       ,SSFO_LUNCH,1414,0,0,1414,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,Calero High,SSFO_LUNCH,1502,0,0,1502,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,Calero High,SSFO_SNACKPM,2351,0,0,2351,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,Andrew P. Hill High                                             ,SSFO_LUNCH,3414,0,0,3414,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,Andrew P. Hill High                                             ,SSFO_SNACKPM,358,0,0,358,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,Independence High                                               ,SSFO_LUNCH,7031,0,0,7031,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,Foothill High                                                   ,SSFO_LUNCH,1328,0,0,1328,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,James Lick High                                                 ,SSFO_LUNCH,4096,0,0,4096,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,James Lick High                                                 ,SSFO_SNACKPM,1920,0,0,1920,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,Mt. Pleasant High                                               ,SSFO_LUNCH,3558,0,0,3558,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,Mt. Pleasant High                                               ,SSFO_SNACKPM,145,0,0,145,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,Oak Grove High                                                  ,SSFO_LUNCH,2263,0,0,2263,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,William C. Overfelt High                                        ,SSFO_LUNCH,5918,0,0,5918,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,William C. Overfelt High                                        ,SSFO_SNACKPM,2413,0,0,2413,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,Silver Creek High                                               ,SSFO_LUNCH,3867,0,0,3867,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,Yerba Buena High                                                ,SSFO_LUNCH,5984,0,0,5984,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,POCO WAY APARTMENT,SSFO_LUNCH,302,0,0,302,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,RITA CHAVEZ MEDINA,SSFO_LUNCH,285,0,0,285,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,VALLEY PALMS APARTMENTS,SSFO_LUNCH,1997,0,0,1997,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,VALLEY PALMS APARTMENTS,SSFO_SNACKPM,300,0,0,300,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,WELCH PARK,SSFO_LUNCH,224,0,0,224,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,DON DE DIOS,SSFO_LUNCH,239,0,0,239,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,INTERN TO EARN,SSFO_BREAKFAST,250,0,0,250,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,INTERN TO EARN,SSFO_LUNCH,250,0,0,250,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,SCHOOL OF ARTS & CULTURE,SSFO_LUNCH,346,0,0,346,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,SCHOOL OF ARTS & CULTURE,SSFO_SNACKPM,369,0,0,369,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,SILICON VALLEY MATH INSTITUTE AT CALAVARAS HILLS,SSFO_SNACKPM,285,0,0,285,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Jefferson Union High School District,Jefferson High                                                  ,SSFO_LUNCH,3726,0,0,3726,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Alum Rock Union Elementary School District,Adelante Dual Language Academy,SSFO_LUNCH,896,0,0,896,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Alum Rock Union Elementary School District,A. J. Dorsa Elementary                                          ,SSFO_LUNCH,1341,0,0,1341,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Alum Rock Union Elementary School District,Clyde L. Fischer Middle                                         ,SSFO_LUNCH,525,0,0,525,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Alum Rock Union Elementary School District,LINDA VISTA ELEMENTARY,SSFO_LUNCH,1426,0,0,1426,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Alum Rock Union Elementary School District,Learning in an Urban Community with High Achievement (L.U.C.H.A.,SSFO_LUNCH,1082,0,0,1082,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Alum Rock Union Elementary School District,LYNDALE ELEMENTARY,SSFO_LUNCH,359,0,0,359,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Alum Rock Union Elementary School District,LEE MATHSON MIDDLE,SSFO_LUNCH,619,0,0,619,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Alum Rock Union Elementary School District,William Sheppard Middle                                         ,SSFO_LUNCH,667,0,0,667,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,San Mateo-Foster City School District,Bayside ACADEMY                                                 ,SSFO_BREAKFAST_SEVERENEED,114,0,0,114,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,San Mateo-Foster City School District,Bayside ACADEMY                                                 ,SSFO_LUNCH,61,0,0,61,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,San Mateo-Foster City School District,COLLEGE PARK ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,421,0,0,421,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,San Mateo-Foster City School District,COLLEGE PARK ELEMENTARY,SSFO_LUNCH,447,0,0,447,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Cristo Rey San Jose High School,Cristo Rey San Jose Jesuit High School,SSFO_BREAKFAST_SEVERENEED,436,0,0,436,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Cristo Rey San Jose High School,Cristo Rey San Jose Jesuit High School,SSFO_LUNCH,481,0,0,481,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Cristo Rey San Jose High School,Cristo Rey San Jose Jesuit High School,SSFO_BREAKFAST_SEVERENEED,436,0,0,436,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Cristo Rey San Jose High School,Cristo Rey San Jose Jesuit High School,SSFO_LUNCH,481,0,0,481,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Jefferson Elementary School District,Thomas R. Pollicita Middle                                      ,SSFO_BREAKFAST_SEVERENEED,557,0,0,557,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Jefferson Elementary School District,Thomas R. Pollicita Middle                                      ,SSFO_LUNCH,714,0,0,714,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Jefferson Elementary School District,WESTLAKE ELEMENTARY,SSFO_LUNCH,289,0,0,289,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Jefferson Elementary School District,Thomas R. Pollicita Middle                                      ,SSFO_BREAKFAST_SEVERENEED,557,0,0,557,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Jefferson Elementary School District,Thomas R. Pollicita Middle                                      ,SSFO_LUNCH,714,0,0,714,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Jefferson Elementary School District,WESTLAKE ELEMENTARY,SSFO_LUNCH,289,0,0,289,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Oak Grove Elementary School District,Boys & Girls Club,SSFO_BREAKFAST,1275,0,0,1275,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Oak Grove Elementary School District,Boys & Girls Club,SSFO_LUNCH,1572,0,0,1572,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Oak Grove Elementary School District,DEL ROBLE ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,553,0,0,553,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Oak Grove Elementary School District,DEL ROBLE ELEMENTARY,SSFO_LUNCH,795,0,0,795,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Oak Grove Elementary School District,Stipe (Samuel) Elementary                                       ,SSFO_BREAKFAST_SEVERENEED,1481,0,0,1481,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Oak Grove Elementary School District,Stipe (Samuel) Elementary                                       ,SSFO_LUNCH,2441,0,0,2441,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Oak Grove Elementary School District,EDENVALE ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,2528,0,0,2528,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Oak Grove Elementary School District,EDENVALE ELEMENTARY,SSFO_LUNCH,2891,0,0,2891,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Oak Grove Elementary School District,Boys & Girls Club,SSFO_BREAKFAST,1275,0,0,1275,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Oak Grove Elementary School District,Boys & Girls Club,SSFO_LUNCH,1572,0,0,1572,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Oak Grove Elementary School District,DEL ROBLE ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,553,0,0,553,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Oak Grove Elementary School District,DEL ROBLE ELEMENTARY,SSFO_LUNCH,795,0,0,795,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Oak Grove Elementary School District,Stipe (Samuel) Elementary                                       ,SSFO_BREAKFAST_SEVERENEED,1481,0,0,1481,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Oak Grove Elementary School District,Stipe (Samuel) Elementary                                       ,SSFO_LUNCH,2441,0,0,2441,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Oak Grove Elementary School District,EDENVALE ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,2528,0,0,2528,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Oak Grove Elementary School District,EDENVALE ELEMENTARY,SSFO_LUNCH,2891,0,0,2891,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Oak Grove Elementary School District,Boys & Girls Club,SSFO_BREAKFAST,1275,0,0,1275,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Oak Grove Elementary School District,Boys & Girls Club,SSFO_LUNCH,1572,0,0,1572,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Oak Grove Elementary School District,DEL ROBLE ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,553,0,0,553,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Oak Grove Elementary School District,DEL ROBLE ELEMENTARY,SSFO_LUNCH,795,0,0,795,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Oak Grove Elementary School District,Stipe (Samuel) Elementary                                       ,SSFO_BREAKFAST_SEVERENEED,1481,0,0,1481,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Oak Grove Elementary School District,Stipe (Samuel) Elementary                                       ,SSFO_LUNCH,2441,0,0,2441,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Oak Grove Elementary School District,EDENVALE ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,2528,0,0,2528,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Oak Grove Elementary School District,EDENVALE ELEMENTARY,SSFO_LUNCH,2891,0,0,2891,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,GILROY UNIFIED SCHOOL DISTRICT,ELIOT ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,1462,0,0,1462,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,GILROY UNIFIED SCHOOL DISTRICT,ELIOT ELEMENTARY,SSFO_LUNCH,2265,0,0,2265,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,GILROY UNIFIED SCHOOL DISTRICT,South Valley Middle                                             ,SSFO_BREAKFAST_SEVERENEED,2298,0,0,2298,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,GILROY UNIFIED SCHOOL DISTRICT,South Valley Middle                                             ,SSFO_LUNCH,5787,0,0,5787,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,GILROY UNIFIED SCHOOL DISTRICT,Antonio Del Buono Elementary                                    ,SSFO_BREAKFAST_SEVERENEED,1770,0,0,1770,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,GILROY UNIFIED SCHOOL DISTRICT,Antonio Del Buono Elementary                                    ,SSFO_LUNCH,2562,0,0,2562,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,GILROY UNIFIED SCHOOL DISTRICT,ELIOT ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,1462,0,0,1462,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,GILROY UNIFIED SCHOOL DISTRICT,ELIOT ELEMENTARY,SSFO_LUNCH,2265,0,0,2265,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,GILROY UNIFIED SCHOOL DISTRICT,South Valley Middle                                             ,SSFO_BREAKFAST_SEVERENEED,2298,0,0,2298,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,GILROY UNIFIED SCHOOL DISTRICT,South Valley Middle                                             ,SSFO_LUNCH,5787,0,0,5787,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,GILROY UNIFIED SCHOOL DISTRICT,Antonio Del Buono Elementary                                    ,SSFO_BREAKFAST_SEVERENEED,1770,0,0,1770,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,GILROY UNIFIED SCHOOL DISTRICT,Antonio Del Buono Elementary                                    ,SSFO_LUNCH,2562,0,0,2562,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Franklin-McKinley Elementary School District,RAMBLEWOOD ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,1059,0,0,1059,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Franklin-McKinley Elementary School District,RAMBLEWOOD ELEMENTARY,SSFO_LUNCH,1002,0,0,1002,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Franklin-McKinley Elementary School District,Bridges Academy                                                 ,SSFO_BREAKFAST_SEVERENEED,313,0,0,313,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Franklin-McKinley Elementary School District,Bridges Academy                                                 ,SSFO_LUNCH,1590,0,0,1590,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Franklin-McKinley Elementary School District,G. W. Hellyer Elementary                                        ,SSFO_BREAKFAST_SEVERENEED,521,0,0,521,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Franklin-McKinley Elementary School District,G. W. Hellyer Elementary                                        ,SSFO_LUNCH,1395,0,0,1395,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Franklin-McKinley Elementary School District,Captain Jason M. Dahl Elementary                                ,SSFO_BREAKFAST_SEVERENEED,793,0,0,793,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Franklin-McKinley Elementary School District,Captain Jason M. Dahl Elementary                                ,SSFO_LUNCH,808,0,0,808,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Franklin-McKinley Elementary School District,Robert F. Kennedy Elementary                                    ,SSFO_BREAKFAST_SEVERENEED,1025,0,0,1025,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Franklin-McKinley Elementary School District,Robert F. Kennedy Elementary                                    ,SSFO_LUNCH,1378,0,0,1378,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Franklin-McKinley Elementary School District,RAMBLEWOOD ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,1059,0,0,1059,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Franklin-McKinley Elementary School District,RAMBLEWOOD ELEMENTARY,SSFO_LUNCH,1002,0,0,1002,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Franklin-McKinley Elementary School District,Bridges Academy                                                 ,SSFO_BREAKFAST_SEVERENEED,313,0,0,313,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Franklin-McKinley Elementary School District,Bridges Academy                                                 ,SSFO_LUNCH,1590,0,0,1590,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Franklin-McKinley Elementary School District,G. W. Hellyer Elementary                                        ,SSFO_BREAKFAST_SEVERENEED,521,0,0,521,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Franklin-McKinley Elementary School District,G. W. Hellyer Elementary                                        ,SSFO_LUNCH,1395,0,0,1395,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Franklin-McKinley Elementary School District,Captain Jason M. Dahl Elementary                                ,SSFO_BREAKFAST_SEVERENEED,793,0,0,793,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Franklin-McKinley Elementary School District,Captain Jason M. Dahl Elementary                                ,SSFO_LUNCH,808,0,0,808,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Franklin-McKinley Elementary School District,Robert F. Kennedy Elementary                                    ,SSFO_BREAKFAST_SEVERENEED,1025,0,0,1025,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Franklin-McKinley Elementary School District,Robert F. Kennedy Elementary                                    ,SSFO_LUNCH,1378,0,0,1378,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,MORELAND SCHOOL DISTRICT,George C. Payne Elementary                                      ,SSFO_LUNCH,1083,0,0,1083,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Fremont Union High School District,Community Day,SSFO_BREAKFAST_SEVERENEED,1242,0,0,1242,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Fremont Union High School District,Community Day,SSFO_LUNCH,7267,0,0,7267,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Fremont Union High School District,Community Day,SSFO_BREAKFAST_SEVERENEED,1242,0,0,1242,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Fremont Union High School District,Community Day,SSFO_LUNCH,7267,0,0,7267,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Mountain View Whisman School District,Crittenden Middle                                               ,SSFO_BREAKFAST_SEVERENEED,12179,0,0,12179,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Mountain View Whisman School District,Crittenden Middle                                               ,SSFO_LUNCH,11903,0,0,11903,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Mountain View Whisman School District,Rengstorff Park & Receration Department,SSFO_BREAKFAST,2410,0,0,2410,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Mountain View Whisman School District,Rengstorff Park & Receration Department,SSFO_LUNCH,4153,0,0,4153,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Mountain View Whisman School District,Castro Park,SSFO_LUNCH,1339,0,0,1339,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Mountain View Whisman School District,Maryce Freelen Place Apartments,SSFO_LUNCH,477,0,0,477,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Mountain View Whisman School District,Crittenden Middle                                               ,SSFO_BREAKFAST_SEVERENEED,12179,0,0,12179,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Mountain View Whisman School District,Crittenden Middle                                               ,SSFO_LUNCH,11903,0,0,11903,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Mountain View Whisman School District,Rengstorff Park & Receration Department,SSFO_BREAKFAST,2410,0,0,2410,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Mountain View Whisman School District,Rengstorff Park & Receration Department,SSFO_LUNCH,4153,0,0,4153,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Mountain View Whisman School District,Castro Park,SSFO_LUNCH,1339,0,0,1339,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Mountain View Whisman School District,Maryce Freelen Place Apartments,SSFO_LUNCH,477,0,0,477,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Mountain View Whisman School District,Crittenden Middle                                               ,SSFO_BREAKFAST_SEVERENEED,12179,0,0,12179,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Mountain View Whisman School District,Crittenden Middle                                               ,SSFO_LUNCH,11903,0,0,11903,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Mountain View Whisman School District,Rengstorff Park & Receration Department,SSFO_BREAKFAST,2410,0,0,2410,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Mountain View Whisman School District,Rengstorff Park & Receration Department,SSFO_LUNCH,4153,0,0,4153,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Mountain View Whisman School District,Castro Park,SSFO_LUNCH,1339,0,0,1339,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Mountain View Whisman School District,Maryce Freelen Place Apartments,SSFO_LUNCH,477,0,0,477,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,Calero High,SSFO_LUNCH,1502,0,0,1502,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,Calero High,SSFO_SNACKPM,2351,0,0,2351,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,Andrew P. Hill High                                             ,SSFO_LUNCH,3414,0,0,3414,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,Andrew P. Hill High                                             ,SSFO_SNACKPM,358,0,0,358,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,Independence High                                               ,SSFO_LUNCH,7031,0,0,7031,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,Foothill High                                                   ,SSFO_LUNCH,1328,0,0,1328,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,James Lick High                                                 ,SSFO_LUNCH,4096,0,0,4096,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,James Lick High                                                 ,SSFO_SNACKPM,1920,0,0,1920,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,Mt. Pleasant High                                               ,SSFO_LUNCH,3558,0,0,3558,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,Mt. Pleasant High                                               ,SSFO_SNACKPM,145,0,0,145,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,Oak Grove High                                                  ,SSFO_LUNCH,2263,0,0,2263,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,William C. Overfelt High                                        ,SSFO_LUNCH,5918,0,0,5918,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,William C. Overfelt High                                        ,SSFO_SNACKPM,2413,0,0,2413,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,Silver Creek High                                               ,SSFO_LUNCH,3867,0,0,3867,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,Yerba Buena High                                                ,SSFO_LUNCH,5984,0,0,5984,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,POCO WAY APARTMENT,SSFO_LUNCH,302,0,0,302,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,RITA CHAVEZ MEDINA,SSFO_LUNCH,285,0,0,285,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,VALLEY PALMS APARTMENTS,SSFO_LUNCH,1997,0,0,1997,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,VALLEY PALMS APARTMENTS,SSFO_SNACKPM,300,0,0,300,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,WELCH PARK,SSFO_LUNCH,224,0,0,224,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,DON DE DIOS,SSFO_LUNCH,239,0,0,239,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,INTERN TO EARN,SSFO_BREAKFAST,250,0,0,250,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,INTERN TO EARN,SSFO_LUNCH,250,0,0,250,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,SCHOOL OF ARTS & CULTURE,SSFO_LUNCH,346,0,0,346,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,SCHOOL OF ARTS & CULTURE,SSFO_SNACKPM,369,0,0,369,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,SILICON VALLEY MATH INSTITUTE AT CALAVARAS HILLS,SSFO_SNACKPM,285,0,0,285,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,Calero High,SSFO_LUNCH,1502,0,0,1502,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,Calero High,SSFO_SNACKPM,2351,0,0,2351,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,Andrew P. Hill High                                             ,SSFO_LUNCH,3414,0,0,3414,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,Andrew P. Hill High                                             ,SSFO_SNACKPM,358,0,0,358,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,Independence High                                               ,SSFO_LUNCH,7031,0,0,7031,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,Foothill High                                                   ,SSFO_LUNCH,1328,0,0,1328,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,James Lick High                                                 ,SSFO_LUNCH,4096,0,0,4096,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,James Lick High                                                 ,SSFO_SNACKPM,1920,0,0,1920,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,Mt. Pleasant High                                               ,SSFO_LUNCH,3558,0,0,3558,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,Mt. Pleasant High                                               ,SSFO_SNACKPM,145,0,0,145,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,Oak Grove High                                                  ,SSFO_LUNCH,2263,0,0,2263,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,William C. Overfelt High                                        ,SSFO_LUNCH,5918,0,0,5918,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,William C. Overfelt High                                        ,SSFO_SNACKPM,2413,0,0,2413,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,Silver Creek High                                               ,SSFO_LUNCH,3867,0,0,3867,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,Yerba Buena High                                                ,SSFO_LUNCH,5984,0,0,5984,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,POCO WAY APARTMENT,SSFO_LUNCH,302,0,0,302,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,RITA CHAVEZ MEDINA,SSFO_LUNCH,285,0,0,285,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,VALLEY PALMS APARTMENTS,SSFO_LUNCH,1997,0,0,1997,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,VALLEY PALMS APARTMENTS,SSFO_SNACKPM,300,0,0,300,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,WELCH PARK,SSFO_LUNCH,224,0,0,224,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,DON DE DIOS,SSFO_LUNCH,239,0,0,239,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,INTERN TO EARN,SSFO_BREAKFAST,250,0,0,250,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,INTERN TO EARN,SSFO_LUNCH,250,0,0,250,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,SCHOOL OF ARTS & CULTURE,SSFO_LUNCH,346,0,0,346,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,SCHOOL OF ARTS & CULTURE,SSFO_SNACKPM,369,0,0,369,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,East Side Union High School District,SILICON VALLEY MATH INSTITUTE AT CALAVARAS HILLS,SSFO_SNACKPM,285,0,0,285,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Santa Clara Unified School District,BOWERS ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,352,0,0,352,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Santa Clara Unified School District,BOWERS ELEMENTARY,SSFO_LUNCH,399,0,0,399,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Santa Clara Unified School District,Juan Cabrillo Middle                                            ,SSFO_LUNCH,730,0,0,730,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Santa Clara Unified School District,Juan Cabrillo Middle                                            ,SSFO_SNACKPM,1367,0,0,1367,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Santa Clara Unified School District,GEORGE MAYNE ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,1702,0,0,1702,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Santa Clara Unified School District,GEORGE MAYNE ELEMENTARY,SSFO_LUNCH,2471,0,0,2471,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Santa Clara Unified School District,Marian A. Peterson Middle                                       ,SSFO_BREAKFAST_SEVERENEED,1510,0,0,1510,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Santa Clara Unified School District,Marian A. Peterson Middle                                       ,SSFO_LUNCH,3106,0,0,3106,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Santa Clara Unified School District,SANTA CLARA HIGH,SSFO_BREAKFAST_SEVERENEED,995,0,0,995,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Santa Clara Unified School District,SANTA CLARA HIGH,SSFO_LUNCH,3977,0,0,3977,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Santa Clara Unified School District,SCOTT LANE ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,467,0,0,467,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Santa Clara Unified School District,SCOTT LANE ELEMENTARY,SSFO_LUNCH,827,0,0,827,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Santa Clara Unified School District,Adrian Wilcox High                                              ,SSFO_BREAKFAST_SEVERENEED,1003,0,0,1003,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Santa Clara Unified School District,Adrian Wilcox High                                              ,SSFO_LUNCH,3225,0,0,3225,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Santa Clara Unified School District,BOWERS ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,352,0,0,352,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Santa Clara Unified School District,BOWERS ELEMENTARY,SSFO_LUNCH,399,0,0,399,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Santa Clara Unified School District,Juan Cabrillo Middle                                            ,SSFO_LUNCH,730,0,0,730,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Santa Clara Unified School District,Juan Cabrillo Middle                                            ,SSFO_SNACKPM,1367,0,0,1367,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Santa Clara Unified School District,GEORGE MAYNE ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,1702,0,0,1702,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Santa Clara Unified School District,GEORGE MAYNE ELEMENTARY,SSFO_LUNCH,2471,0,0,2471,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Santa Clara Unified School District,Marian A. Peterson Middle                                       ,SSFO_BREAKFAST_SEVERENEED,1510,0,0,1510,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Santa Clara Unified School District,Marian A. Peterson Middle                                       ,SSFO_LUNCH,3106,0,0,3106,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Santa Clara Unified School District,SANTA CLARA HIGH,SSFO_BREAKFAST_SEVERENEED,995,0,0,995,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Santa Clara Unified School District,SANTA CLARA HIGH,SSFO_LUNCH,3977,0,0,3977,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Santa Clara Unified School District,SCOTT LANE ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,467,0,0,467,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Santa Clara Unified School District,SCOTT LANE ELEMENTARY,SSFO_LUNCH,827,0,0,827,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Santa Clara Unified School District,Adrian Wilcox High                                              ,SSFO_BREAKFAST_SEVERENEED,1003,0,0,1003,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Santa Clara Unified School District,Adrian Wilcox High                                              ,SSFO_LUNCH,3225,0,0,3225,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Santa Clara Unified School District,BOWERS ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,352,0,0,352,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Santa Clara Unified School District,BOWERS ELEMENTARY,SSFO_LUNCH,399,0,0,399,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Santa Clara Unified School District,Juan Cabrillo Middle                                            ,SSFO_LUNCH,730,0,0,730,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Santa Clara Unified School District,Juan Cabrillo Middle                                            ,SSFO_SNACKPM,1367,0,0,1367,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Santa Clara Unified School District,GEORGE MAYNE ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,1702,0,0,1702,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Santa Clara Unified School District,GEORGE MAYNE ELEMENTARY,SSFO_LUNCH,2471,0,0,2471,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Santa Clara Unified School District,Marian A. Peterson Middle                                       ,SSFO_BREAKFAST_SEVERENEED,1510,0,0,1510,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Santa Clara Unified School District,Marian A. Peterson Middle                                       ,SSFO_LUNCH,3106,0,0,3106,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Santa Clara Unified School District,SANTA CLARA HIGH,SSFO_BREAKFAST_SEVERENEED,995,0,0,995,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Santa Clara Unified School District,SANTA CLARA HIGH,SSFO_LUNCH,3977,0,0,3977,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Santa Clara Unified School District,SCOTT LANE ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,467,0,0,467,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Santa Clara Unified School District,SCOTT LANE ELEMENTARY,SSFO_LUNCH,827,0,0,827,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Santa Clara Unified School District,Adrian Wilcox High                                              ,SSFO_BREAKFAST_SEVERENEED,1003,0,0,1003,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Santa Clara Unified School District,Adrian Wilcox High                                              ,SSFO_LUNCH,3225,0,0,3225,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Ravenswood City Elementary School District,BELLE HAVEN ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,2067,0,0,2067,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Ravenswood City Elementary School District,BELLE HAVEN ELEMENTARY,SSFO_LUNCH,1948,0,0,1948,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Ravenswood City Elementary School District,Brentwood Open Site,SSFO_BREAKFAST_SEVERENEED,1968,0,0,1968,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Ravenswood City Elementary School District,Brentwood Open Site,SSFO_LUNCH,2084,0,0,2084,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Ravenswood City Elementary School District,Los Robles-Ronald McNair Academy                                ,SSFO_BREAKFAST_SEVERENEED,667,0,0,667,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Ravenswood City Elementary School District,Los Robles-Ronald McNair Academy                                ,SSFO_LUNCH,815,0,0,815,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Ravenswood City Elementary School District,BELLE HAVEN ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,2067,0,0,2067,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Ravenswood City Elementary School District,BELLE HAVEN ELEMENTARY,SSFO_LUNCH,1948,0,0,1948,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Ravenswood City Elementary School District,Brentwood Open Site,SSFO_BREAKFAST_SEVERENEED,1968,0,0,1968,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Ravenswood City Elementary School District,Brentwood Open Site,SSFO_LUNCH,2084,0,0,2084,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Ravenswood City Elementary School District,Los Robles-Ronald McNair Academy                                ,SSFO_BREAKFAST_SEVERENEED,667,0,0,667,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Ravenswood City Elementary School District,Los Robles-Ronald McNair Academy                                ,SSFO_LUNCH,815,0,0,815,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,San Jose Unified School District,GUNDERSON HIGH,SSFO_LUNCH,1895,0,0,1895,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,San Jose Unified School District,WASHINGTON ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,505,0,0,505,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,San Jose Unified School District,WASHINGTON ELEMENTARY,SSFO_LUNCH,1076,0,0,1076,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,San Jose Unified School District,GARDNER ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,694,0,0,694,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,San Jose Unified School District,GARDNER ELEMENTARY,SSFO_LUNCH,1461,0,0,1461,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,San Jose Unified School District,CANOAS ELEMENTARY,SSFO_LUNCH,1610,0,0,1610,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,San Jose Unified School District,ALMADEN ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,521,0,0,521,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,San Jose Unified School District,ALMADEN ELEMENTARY,SSFO_LUNCH,983,0,0,983,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,San Jose Unified School District,Selma Olinder Elementary                                        ,SSFO_LUNCH,358,0,0,358,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,San Jose Unified School District,Peter Burnett Middle                                            ,SSFO_LUNCH,893,0,0,893,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,San Jose Unified School District,Herbert Hoover Middle                                           ,SSFO_LUNCH,712,0,0,712,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,San Jose Unified School District,San Jose High Academy Plus                                      ,SSFO_LUNCH,1124,0,0,1124,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,San Jose Unified School District,BROADWAY HIGH,SSFO_LUNCH,133,0,0,133,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,San Jose Unified School District,PIONEER HIGH,SSFO_LUNCH,1428,0,0,1428,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,San Jose Unified School District,Abraham Lincoln High                                            ,SSFO_LUNCH,1805,0,0,1805,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,San Jose Unified School District,Liberty High (Alternative),SSFO_LUNCH,109,0,0,109,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,San Jose Unified School District,GUNDERSON HIGH,SSFO_LUNCH,1895,0,0,1895,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,San Jose Unified School District,WASHINGTON ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,505,0,0,505,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,San Jose Unified School District,WASHINGTON ELEMENTARY,SSFO_LUNCH,1076,0,0,1076,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,San Jose Unified School District,GARDNER ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,694,0,0,694,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,San Jose Unified School District,GARDNER ELEMENTARY,SSFO_LUNCH,1461,0,0,1461,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,San Jose Unified School District,CANOAS ELEMENTARY,SSFO_LUNCH,1610,0,0,1610,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,San Jose Unified School District,ALMADEN ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,521,0,0,521,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,San Jose Unified School District,ALMADEN ELEMENTARY,SSFO_LUNCH,983,0,0,983,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,San Jose Unified School District,Selma Olinder Elementary                                        ,SSFO_LUNCH,358,0,0,358,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,San Jose Unified School District,Peter Burnett Middle                                            ,SSFO_LUNCH,893,0,0,893,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,San Jose Unified School District,Herbert Hoover Middle                                           ,SSFO_LUNCH,712,0,0,712,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,San Jose Unified School District,San Jose High Academy Plus                                      ,SSFO_LUNCH,1124,0,0,1124,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,San Jose Unified School District,BROADWAY HIGH,SSFO_LUNCH,133,0,0,133,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,San Jose Unified School District,PIONEER HIGH,SSFO_LUNCH,1428,0,0,1428,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,San Jose Unified School District,Abraham Lincoln High                                            ,SSFO_LUNCH,1805,0,0,1805,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,San Jose Unified School District,Liberty High (Alternative),SSFO_LUNCH,109,0,0,109,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,San Mateo-Foster City School District,Bayside ACADEMY                                                 ,SSFO_BREAKFAST_SEVERENEED,114,0,0,114,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,San Mateo-Foster City School District,Bayside ACADEMY                                                 ,SSFO_LUNCH,61,0,0,61,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,San Mateo-Foster City School District,COLLEGE PARK ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,421,0,0,421,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,San Mateo-Foster City School District,COLLEGE PARK ELEMENTARY,SSFO_LUNCH,447,0,0,447,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Millbrae Elementary School District,LOMITA PARK ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,479,0,0,479,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Millbrae Elementary School District,LOMITA PARK ELEMENTARY,SSFO_LUNCH,793,0,0,793,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Millbrae Elementary School District,LOMITA PARK ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,479,0,0,479,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Millbrae Elementary School District,LOMITA PARK ELEMENTARY,SSFO_LUNCH,793,0,0,793,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,ACE Charter School,ACE Empower Academy                                             ,SSFO_BREAKFAST_SEVERENEED,148,0,0,148,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,ACE Charter School,ACE Empower Academy                                             ,SSFO_LUNCH,221,0,0,221,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,ACE Charter School,ACE Empower Academy                                             ,SSFO_BREAKFAST_SEVERENEED,148,0,0,148,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,ACE Charter School,ACE Empower Academy                                             ,SSFO_LUNCH,221,0,0,221,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Campbell Union School District,Rosemary                                                        ,SSFO_LUNCH,496,0,0,496,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Campbell Union School District,CASTLEMONT ELEMENTARY,SSFO_LUNCH,1240,0,0,1240,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Campbell Union School District,CASTLEMONT ELEMENTARY,SSFO_SNACKPM,604,0,0,604,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Campbell Union School District,Rosemary                                                        ,SSFO_LUNCH,496,0,0,496,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Campbell Union School District,CASTLEMONT ELEMENTARY,SSFO_LUNCH,1240,0,0,1240,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Campbell Union School District,CASTLEMONT ELEMENTARY,SSFO_SNACKPM,604,0,0,604,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,"Oxford Day Academy, Inc.",Oxford Day Academy,SSFO_BREAKFAST,346,0,0,346,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Redwood City Elementary School District,FAIR OAKS ELEMENTARY,SSFO_LUNCH,674,0,0,674,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Redwood City Elementary School District,GARFIELD ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,934,0,0,934,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Redwood City Elementary School District,GARFIELD ELEMENTARY,SSFO_LUNCH,1315,0,0,1315,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Redwood City Elementary School District,HAWES ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,757,0,0,757,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Redwood City Elementary School District,HAWES ELEMENTARY,SSFO_LUNCH,921,0,0,921,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Redwood City Elementary School District,HENRY FORD ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,1276,0,0,1276,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Redwood City Elementary School District,HENRY FORD ELEMENTARY,SSFO_LUNCH,1098,0,0,1098,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Redwood City Elementary School District,HOOVER ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,2051,0,0,2051,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Redwood City Elementary School District,HOOVER ELEMENTARY,SSFO_LUNCH,1877,0,0,1877,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Redwood City Elementary School District,JOHN GILL ELEMENTARY,SSFO_LUNCH,605,0,0,605,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Redwood City Elementary School District,John F. Kennedy Middle                                          ,SSFO_BREAKFAST_SEVERENEED,169,0,0,169,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Redwood City Elementary School District,John F. Kennedy Middle                                          ,SSFO_LUNCH,480,0,0,480,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Redwood City Elementary School District,ROOSEVELT ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,1186,0,0,1186,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Redwood City Elementary School District,ROOSEVELT ELEMENTARY,SSFO_LUNCH,1151,0,0,1151,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Redwood City Elementary School District,SELBY LANE ELEMENTARY,SSFO_LUNCH,546,0,0,546,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Redwood City Elementary School District,TAFT ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,1513,0,0,1513,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Redwood City Elementary School District,TAFT ELEMENTARY,SSFO_LUNCH,1490,0,0,1490,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Redwood City Elementary School District,FAIR OAKS ELEMENTARY,SSFO_LUNCH,674,0,0,674,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Redwood City Elementary School District,GARFIELD ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,934,0,0,934,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Redwood City Elementary School District,GARFIELD ELEMENTARY,SSFO_LUNCH,1315,0,0,1315,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Redwood City Elementary School District,HAWES ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,757,0,0,757,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Redwood City Elementary School District,HAWES ELEMENTARY,SSFO_LUNCH,921,0,0,921,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Redwood City Elementary School District,HENRY FORD ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,1276,0,0,1276,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Redwood City Elementary School District,HENRY FORD ELEMENTARY,SSFO_LUNCH,1098,0,0,1098,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Redwood City Elementary School District,HOOVER ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,2051,0,0,2051,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Redwood City Elementary School District,HOOVER ELEMENTARY,SSFO_LUNCH,1877,0,0,1877,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Redwood City Elementary School District,JOHN GILL ELEMENTARY,SSFO_LUNCH,605,0,0,605,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Redwood City Elementary School District,John F. Kennedy Middle                                          ,SSFO_BREAKFAST_SEVERENEED,169,0,0,169,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Redwood City Elementary School District,John F. Kennedy Middle                                          ,SSFO_LUNCH,480,0,0,480,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Redwood City Elementary School District,ROOSEVELT ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,1186,0,0,1186,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Redwood City Elementary School District,ROOSEVELT ELEMENTARY,SSFO_LUNCH,1151,0,0,1151,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Redwood City Elementary School District,SELBY LANE ELEMENTARY,SSFO_LUNCH,546,0,0,546,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Redwood City Elementary School District,TAFT ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,1513,0,0,1513,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,Redwood City Elementary School District,TAFT ELEMENTARY,SSFO_LUNCH,1490,0,0,1490,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Sunnyvale School District,Columbia Middle                                                 ,SSFO_BREAKFAST_SEVERENEED,987,0,0,987,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Sunnyvale School District,Columbia Middle                                                 ,SSFO_LUNCH,1343,0,0,1343,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Sunnyvale School District,LAKEWOOD ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,482,0,0,482,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Sunnyvale School District,LAKEWOOD ELEMENTARY,SSFO_LUNCH,668,0,0,668,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Sunnyvale School District,SAN MIGUEL ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,1287,0,0,1287,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Sunnyvale School District,SAN MIGUEL ELEMENTARY,SSFO_LUNCH,1520,0,0,1520,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Sunnyvale School District,Columbia Middle                                                 ,SSFO_BREAKFAST_SEVERENEED,987,0,0,987,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Sunnyvale School District,Columbia Middle                                                 ,SSFO_LUNCH,1343,0,0,1343,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Sunnyvale School District,LAKEWOOD ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,482,0,0,482,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Sunnyvale School District,LAKEWOOD ELEMENTARY,SSFO_LUNCH,668,0,0,668,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Sunnyvale School District,SAN MIGUEL ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,1287,0,0,1287,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Sunnyvale School District,SAN MIGUEL ELEMENTARY,SSFO_LUNCH,1520,0,0,1520,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Milpitas Unified School District,Milpitas Sports Center,SSFO_LUNCH,2529,0,0,2529,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Milpitas Unified School District,Robert Randall Elementary                                       ,SSFO_LUNCH,1492,0,0,1492,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Milpitas Unified School District,Alexander Rose Elementary                                       ,SSFO_LUNCH,1597,0,0,1597,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Campbell Union High School District,DEL MAR HIGH,SSFO_BREAKFAST_SEVERENEED,2660,0,0,2660,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Campbell Union High School District,DEL MAR HIGH,SSFO_LUNCH,2645,0,0,2645,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Campbell Union High School District,DEL MAR HIGH,SSFO_BREAKFAST_SEVERENEED,2660,0,0,2660,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Campbell Union High School District,DEL MAR HIGH,SSFO_LUNCH,2645,0,0,2645,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Mount Pleasant Elementary School District,August Boeger Middle                                            ,SSFO_BREAKFAST_SEVERENEED,1649,0,0,1649,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Mount Pleasant Elementary School District,August Boeger Middle                                            ,SSFO_LUNCH,2428,0,0,2428,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Mount Pleasant Elementary School District,Mt. Pleasant Elementary                                         ,SSFO_BREAKFAST_SEVERENEED,30,0,0,30,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Mount Pleasant Elementary School District,Mt. Pleasant Elementary                                         ,SSFO_LUNCH,321,0,0,321,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Mount Pleasant Elementary School District,Robert Sanders Elementary                                       ,SSFO_BREAKFAST_SEVERENEED,382,0,0,382,2018
+SANTA CLARA,Jun 2018,SSFO,NSLP,Mount Pleasant Elementary School District,Robert Sanders Elementary                                       ,SSFO_LUNCH,742,0,0,742,2018
+SANTA CLARA,May 2018,SSFO,NSLP,East Side Union High School District,William C. Overfelt High                                        ,SSFO_LUNCH,60,0,0,60,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,South San Francisco Unified School District,SPRUCE ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,2651,0,0,2651,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,South San Francisco Unified School District,SPRUCE ELEMENTARY,SSFO_LUNCH,2790,0,0,2790,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,South San Francisco Unified School District,SUNSHINE GARDENS ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,2469,0,0,2469,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,South San Francisco Unified School District,SUNSHINE GARDENS ELEMENTARY,SSFO_LUNCH,3332,0,0,3332,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,South San Francisco Unified School District,Parkway Heights Middle                                          ,SSFO_BREAKFAST_SEVERENEED,787,0,0,787,2018
+SAN MATEO,Jun 2018,SSFO,NSLP,South San Francisco Unified School District,Parkway Heights Middle                                          ,SSFO_LUNCH,1828,0,0,1828,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,Latino College Prep Academy,LATINO COLLEGE PREPARATORY ACADEMY,SSFO_BREAKFAST_SEVERENEED,59,0,0,59,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,Latino College Prep Academy,LATINO COLLEGE PREPARATORY ACADEMY,SSFO_LUNCH,370,0,0,370,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,Latino College Prep Academy,LATINO COLLEGE PREPARATORY ACADEMY,SSFO_BREAKFAST_SEVERENEED,59,0,0,59,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,Latino College Prep Academy,LATINO COLLEGE PREPARATORY ACADEMY,SSFO_LUNCH,370,0,0,370,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,Santa Clara Unified School District,Juan Cabrillo Middle                                            ,SSFO_LUNCH,1021,0,0,1021,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,Santa Clara Unified School District,Juan Cabrillo Middle                                            ,SSFO_SNACKPM,431,0,0,431,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,Santa Clara Unified School District,SANTA CLARA HIGH,SSFO_BREAKFAST_SEVERENEED,265,0,0,265,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,Santa Clara Unified School District,SANTA CLARA HIGH,SSFO_LUNCH,1345,0,0,1345,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,Santa Clara Unified School District,Juan Cabrillo Middle                                            ,SSFO_LUNCH,1021,0,0,1021,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,Santa Clara Unified School District,Juan Cabrillo Middle                                            ,SSFO_SNACKPM,431,0,0,431,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,Santa Clara Unified School District,SANTA CLARA HIGH,SSFO_BREAKFAST_SEVERENEED,265,0,0,265,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,Santa Clara Unified School District,SANTA CLARA HIGH,SSFO_LUNCH,1345,0,0,1345,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,Santa Clara Unified School District,Juan Cabrillo Middle                                            ,SSFO_LUNCH,1021,0,0,1021,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,Santa Clara Unified School District,Juan Cabrillo Middle                                            ,SSFO_SNACKPM,431,0,0,431,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,Santa Clara Unified School District,SANTA CLARA HIGH,SSFO_BREAKFAST_SEVERENEED,265,0,0,265,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,Santa Clara Unified School District,SANTA CLARA HIGH,SSFO_LUNCH,1345,0,0,1345,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,East Side Union High School District,RITA CHAVEZ MEDINA,SSFO_LUNCH,49,0,0,49,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,East Side Union High School District,WELCH PARK,SSFO_LUNCH,59,0,0,59,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,East Side Union High School District,POCO WAY APARTMENT,SSFO_LUNCH,41,0,0,41,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,East Side Union High School District,DON DE DIOS,SSFO_LUNCH,29,0,0,29,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,East Side Union High School District,VALLEY PALMS APARTMENTS,SSFO_LUNCH,400,0,0,400,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,East Side Union High School District,William C. Overfelt High                                        ,SSFO_LUNCH,380,0,0,380,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,East Side Union High School District,SCHOOL OF ARTS & CULTURE,SSFO_LUNCH,157,0,0,157,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,East Side Union High School District,Independence High                                               ,SSFO_LUNCH,142,0,0,142,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,Calero High,SSFO_LUNCH,76,0,0,76,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,RITA CHAVEZ MEDINA,SSFO_LUNCH,287,0,0,287,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,WELCH PARK,SSFO_LUNCH,323,0,0,323,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,POCO WAY APARTMENT,SSFO_LUNCH,306,0,0,306,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,DON DE DIOS,SSFO_LUNCH,310,0,0,310,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,VALLEY PALMS APARTMENTS,SSFO_LUNCH,2937,0,0,2937,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,VALLEY PALMS APARTMENTS,SSFO_SNACKPM,365,0,0,365,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,AMIGOS DE GUADALUPE,SSFO_LUNCH,2089,0,0,2089,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,AMIGOS DE GUADALUPE,SSFO_SNACKPM,1374,0,0,1374,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,INTERN TO EARN,SSFO_BREAKFAST,1168,0,0,1168,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,INTERN TO EARN,SSFO_LUNCH,1120,0,0,1120,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,SCHOOL OF ARTS & CULTURE,SSFO_LUNCH,1284,0,0,1284,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,SILICON VALLEY MATH INSTITUTE AT CALAVARAS HILLS,SSFO_SNACKPM,1073,0,0,1073,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,Andrew P. Hill High                                             ,SSFO_LUNCH,2925,0,0,2925,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,Andrew P. Hill High                                             ,SSFO_SNACKPM,2140,0,0,2140,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,Independence High                                               ,SSFO_LUNCH,2617,0,0,2617,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,Foothill High                                                   ,SSFO_LUNCH,265,0,0,265,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,James Lick High                                                 ,SSFO_LUNCH,2680,0,0,2680,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,James Lick High                                                 ,SSFO_SNACKPM,2400,0,0,2400,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,Mt. Pleasant High                                               ,SSFO_LUNCH,2563,0,0,2563,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,Mt. Pleasant High                                               ,SSFO_SNACKPM,441,0,0,441,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,Oak Grove High                                                  ,SSFO_LUNCH,1463,0,0,1463,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,William C. Overfelt High                                        ,SSFO_LUNCH,5727,0,0,5727,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,William C. Overfelt High                                        ,SSFO_SNACKPM,4342,0,0,4342,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,Silver Creek High                                               ,SSFO_LUNCH,1794,0,0,1794,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,Yerba Buena High                                                ,SSFO_LUNCH,3519,0,0,3519,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,Calero High,SSFO_LUNCH,76,0,0,76,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,RITA CHAVEZ MEDINA,SSFO_LUNCH,287,0,0,287,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,WELCH PARK,SSFO_LUNCH,323,0,0,323,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,POCO WAY APARTMENT,SSFO_LUNCH,306,0,0,306,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,DON DE DIOS,SSFO_LUNCH,310,0,0,310,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,VALLEY PALMS APARTMENTS,SSFO_LUNCH,2937,0,0,2937,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,VALLEY PALMS APARTMENTS,SSFO_SNACKPM,365,0,0,365,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,AMIGOS DE GUADALUPE,SSFO_LUNCH,2089,0,0,2089,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,AMIGOS DE GUADALUPE,SSFO_SNACKPM,1374,0,0,1374,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,INTERN TO EARN,SSFO_BREAKFAST,1168,0,0,1168,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,INTERN TO EARN,SSFO_LUNCH,1120,0,0,1120,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,SCHOOL OF ARTS & CULTURE,SSFO_LUNCH,1284,0,0,1284,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,SILICON VALLEY MATH INSTITUTE AT CALAVARAS HILLS,SSFO_SNACKPM,1073,0,0,1073,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,Andrew P. Hill High                                             ,SSFO_LUNCH,2925,0,0,2925,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,Andrew P. Hill High                                             ,SSFO_SNACKPM,2140,0,0,2140,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,Independence High                                               ,SSFO_LUNCH,2617,0,0,2617,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,Foothill High                                                   ,SSFO_LUNCH,265,0,0,265,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,James Lick High                                                 ,SSFO_LUNCH,2680,0,0,2680,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,James Lick High                                                 ,SSFO_SNACKPM,2400,0,0,2400,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,Mt. Pleasant High                                               ,SSFO_LUNCH,2563,0,0,2563,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,Mt. Pleasant High                                               ,SSFO_SNACKPM,441,0,0,441,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,Oak Grove High                                                  ,SSFO_LUNCH,1463,0,0,1463,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,William C. Overfelt High                                        ,SSFO_LUNCH,5727,0,0,5727,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,William C. Overfelt High                                        ,SSFO_SNACKPM,4342,0,0,4342,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,Silver Creek High                                               ,SSFO_LUNCH,1794,0,0,1794,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,Yerba Buena High                                                ,SSFO_LUNCH,3519,0,0,3519,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,Calero High,SSFO_LUNCH,76,0,0,76,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,RITA CHAVEZ MEDINA,SSFO_LUNCH,287,0,0,287,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,WELCH PARK,SSFO_LUNCH,323,0,0,323,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,POCO WAY APARTMENT,SSFO_LUNCH,306,0,0,306,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,DON DE DIOS,SSFO_LUNCH,310,0,0,310,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,VALLEY PALMS APARTMENTS,SSFO_LUNCH,2937,0,0,2937,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,VALLEY PALMS APARTMENTS,SSFO_SNACKPM,365,0,0,365,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,AMIGOS DE GUADALUPE,SSFO_LUNCH,2089,0,0,2089,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,AMIGOS DE GUADALUPE,SSFO_SNACKPM,1374,0,0,1374,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,INTERN TO EARN,SSFO_BREAKFAST,1168,0,0,1168,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,INTERN TO EARN,SSFO_LUNCH,1120,0,0,1120,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,SCHOOL OF ARTS & CULTURE,SSFO_LUNCH,1284,0,0,1284,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,SILICON VALLEY MATH INSTITUTE AT CALAVARAS HILLS,SSFO_SNACKPM,1073,0,0,1073,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,Andrew P. Hill High                                             ,SSFO_LUNCH,2925,0,0,2925,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,Andrew P. Hill High                                             ,SSFO_SNACKPM,2140,0,0,2140,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,Independence High                                               ,SSFO_LUNCH,2617,0,0,2617,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,Foothill High                                                   ,SSFO_LUNCH,265,0,0,265,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,James Lick High                                                 ,SSFO_LUNCH,2680,0,0,2680,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,James Lick High                                                 ,SSFO_SNACKPM,2400,0,0,2400,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,Mt. Pleasant High                                               ,SSFO_LUNCH,2563,0,0,2563,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,Mt. Pleasant High                                               ,SSFO_SNACKPM,441,0,0,441,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,Oak Grove High                                                  ,SSFO_LUNCH,1463,0,0,1463,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,William C. Overfelt High                                        ,SSFO_LUNCH,5727,0,0,5727,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,William C. Overfelt High                                        ,SSFO_SNACKPM,4342,0,0,4342,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,Silver Creek High                                               ,SSFO_LUNCH,1794,0,0,1794,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,East Side Union High School District,Yerba Buena High                                                ,SSFO_LUNCH,3519,0,0,3519,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Latino College Prep Academy,LATINO COLLEGE PREPARATORY ACADEMY,SSFO_BREAKFAST_SEVERENEED,547,0,0,547,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Latino College Prep Academy,LATINO COLLEGE PREPARATORY ACADEMY,SSFO_LUNCH,1694,0,0,1694,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Latino College Prep Academy,LATINO COLLEGE PREPARATORY ACADEMY,SSFO_BREAKFAST_SEVERENEED,547,0,0,547,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Latino College Prep Academy,LATINO COLLEGE PREPARATORY ACADEMY,SSFO_LUNCH,1694,0,0,1694,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Santa Clara Unified School District,Juan Cabrillo Middle                                            ,SSFO_LUNCH,2328,0,0,2328,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Santa Clara Unified School District,Juan Cabrillo Middle                                            ,SSFO_SNACKPM,1559,0,0,1559,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Santa Clara Unified School District,Marian A. Peterson Middle                                       ,SSFO_BREAKFAST_SEVERENEED,1387,0,0,1387,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Santa Clara Unified School District,Marian A. Peterson Middle                                       ,SSFO_LUNCH,3035,0,0,3035,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Santa Clara Unified School District,GEORGE MAYNE ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,1779,0,0,1779,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Santa Clara Unified School District,GEORGE MAYNE ELEMENTARY,SSFO_LUNCH,3424,0,0,3424,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Santa Clara Unified School District,SANTA CLARA HIGH,SSFO_BREAKFAST_SEVERENEED,1647,0,0,1647,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Santa Clara Unified School District,SANTA CLARA HIGH,SSFO_LUNCH,7774,0,0,7774,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Santa Clara Unified School District,Adrian Wilcox High                                              ,SSFO_BREAKFAST_SEVERENEED,1665,0,0,1665,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Santa Clara Unified School District,Adrian Wilcox High                                              ,SSFO_LUNCH,5028,0,0,5028,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Santa Clara Unified School District,Juan Cabrillo Middle                                            ,SSFO_LUNCH,2328,0,0,2328,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Santa Clara Unified School District,Juan Cabrillo Middle                                            ,SSFO_SNACKPM,1559,0,0,1559,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Santa Clara Unified School District,Marian A. Peterson Middle                                       ,SSFO_BREAKFAST_SEVERENEED,1387,0,0,1387,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Santa Clara Unified School District,Marian A. Peterson Middle                                       ,SSFO_LUNCH,3035,0,0,3035,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Santa Clara Unified School District,GEORGE MAYNE ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,1779,0,0,1779,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Santa Clara Unified School District,GEORGE MAYNE ELEMENTARY,SSFO_LUNCH,3424,0,0,3424,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Santa Clara Unified School District,SANTA CLARA HIGH,SSFO_BREAKFAST_SEVERENEED,1647,0,0,1647,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Santa Clara Unified School District,SANTA CLARA HIGH,SSFO_LUNCH,7774,0,0,7774,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Santa Clara Unified School District,Adrian Wilcox High                                              ,SSFO_BREAKFAST_SEVERENEED,1665,0,0,1665,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Santa Clara Unified School District,Adrian Wilcox High                                              ,SSFO_LUNCH,5028,0,0,5028,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Santa Clara Unified School District,Juan Cabrillo Middle                                            ,SSFO_LUNCH,2328,0,0,2328,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Santa Clara Unified School District,Juan Cabrillo Middle                                            ,SSFO_SNACKPM,1559,0,0,1559,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Santa Clara Unified School District,Marian A. Peterson Middle                                       ,SSFO_BREAKFAST_SEVERENEED,1387,0,0,1387,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Santa Clara Unified School District,Marian A. Peterson Middle                                       ,SSFO_LUNCH,3035,0,0,3035,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Santa Clara Unified School District,GEORGE MAYNE ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,1779,0,0,1779,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Santa Clara Unified School District,GEORGE MAYNE ELEMENTARY,SSFO_LUNCH,3424,0,0,3424,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Santa Clara Unified School District,SANTA CLARA HIGH,SSFO_BREAKFAST_SEVERENEED,1647,0,0,1647,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Santa Clara Unified School District,SANTA CLARA HIGH,SSFO_LUNCH,7774,0,0,7774,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Santa Clara Unified School District,Adrian Wilcox High                                              ,SSFO_BREAKFAST_SEVERENEED,1665,0,0,1665,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Santa Clara Unified School District,Adrian Wilcox High                                              ,SSFO_LUNCH,5028,0,0,5028,2018
+SAN MATEO,Aug 2018,SSFO,NSLP,San Mateo-Foster City School District,LEAD Elementary                                                 ,SSFO_LUNCH,507,0,0,507,2018
+SAN MATEO,Aug 2018,SSFO,NSLP,San Mateo-Foster City School District,COLLEGE PARK ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,724,0,0,724,2018
+SAN MATEO,Aug 2018,SSFO,NSLP,San Mateo-Foster City School District,COLLEGE PARK ELEMENTARY,SSFO_LUNCH,971,0,0,971,2018
+SAN MATEO,Aug 2018,SSFO,NSLP,San Mateo-Foster City School District,LEAD Elementary                                                 ,SSFO_LUNCH,507,0,0,507,2018
+SAN MATEO,Aug 2018,SSFO,NSLP,San Mateo-Foster City School District,COLLEGE PARK ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,724,0,0,724,2018
+SAN MATEO,Aug 2018,SSFO,NSLP,San Mateo-Foster City School District,COLLEGE PARK ELEMENTARY,SSFO_LUNCH,971,0,0,971,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,Mountain View Whisman School District,Crittenden Middle                                               ,SSFO_BREAKFAST_SEVERENEED,338,0,0,338,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,Mountain View Whisman School District,Crittenden Middle                                               ,SSFO_LUNCH,753,0,0,753,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,Mountain View Whisman School District,Rengstorff Park & Receration Department,SSFO_BREAKFAST,150,0,0,150,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,Mountain View Whisman School District,Rengstorff Park & Receration Department,SSFO_LUNCH,1153,0,0,1153,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,Mountain View Whisman School District,Castro Park,SSFO_LUNCH,223,0,0,223,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,Mountain View Whisman School District,Maryce Freelen Place Apartments,SSFO_LUNCH,153,0,0,153,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,Mountain View Whisman School District,Crittenden Middle                                               ,SSFO_BREAKFAST_SEVERENEED,338,0,0,338,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,Mountain View Whisman School District,Crittenden Middle                                               ,SSFO_LUNCH,753,0,0,753,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,Mountain View Whisman School District,Rengstorff Park & Receration Department,SSFO_BREAKFAST,150,0,0,150,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,Mountain View Whisman School District,Rengstorff Park & Receration Department,SSFO_LUNCH,1153,0,0,1153,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,Mountain View Whisman School District,Castro Park,SSFO_LUNCH,223,0,0,223,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,Mountain View Whisman School District,Maryce Freelen Place Apartments,SSFO_LUNCH,153,0,0,153,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,Mountain View Whisman School District,Crittenden Middle                                               ,SSFO_BREAKFAST_SEVERENEED,338,0,0,338,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,Mountain View Whisman School District,Crittenden Middle                                               ,SSFO_LUNCH,753,0,0,753,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,Mountain View Whisman School District,Rengstorff Park & Receration Department,SSFO_BREAKFAST,150,0,0,150,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,Mountain View Whisman School District,Rengstorff Park & Receration Department,SSFO_LUNCH,1153,0,0,1153,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,Mountain View Whisman School District,Castro Park,SSFO_LUNCH,223,0,0,223,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,Mountain View Whisman School District,Maryce Freelen Place Apartments,SSFO_LUNCH,153,0,0,153,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,Sunnyvale School District,Columbia Middle                                                 ,SSFO_BREAKFAST_SEVERENEED,173,0,0,173,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,Sunnyvale School District,Columbia Middle                                                 ,SSFO_LUNCH,180,0,0,180,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,Sunnyvale School District,LAKEWOOD ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,35,0,0,35,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,Sunnyvale School District,LAKEWOOD ELEMENTARY,SSFO_LUNCH,74,0,0,74,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,Sunnyvale School District,SAN MIGUEL ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,59,0,0,59,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,Sunnyvale School District,SAN MIGUEL ELEMENTARY,SSFO_LUNCH,103,0,0,103,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,Sunnyvale School District,Columbia Middle                                                 ,SSFO_BREAKFAST_SEVERENEED,173,0,0,173,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,Sunnyvale School District,Columbia Middle                                                 ,SSFO_LUNCH,180,0,0,180,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,Sunnyvale School District,LAKEWOOD ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,35,0,0,35,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,Sunnyvale School District,LAKEWOOD ELEMENTARY,SSFO_LUNCH,74,0,0,74,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,Sunnyvale School District,SAN MIGUEL ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,59,0,0,59,2018
+SANTA CLARA,Aug 2018,SSFO,NSLP,Sunnyvale School District,SAN MIGUEL ELEMENTARY,SSFO_LUNCH,103,0,0,103,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Mountain View Whisman School District,Crittenden Middle                                               ,SSFO_BREAKFAST_SEVERENEED,3961,0,0,3961,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Mountain View Whisman School District,Crittenden Middle                                               ,SSFO_LUNCH,5424,0,0,5424,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Mountain View Whisman School District,Rengstorff Park & Receration Department,SSFO_BREAKFAST,4140,0,0,4140,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Mountain View Whisman School District,Rengstorff Park & Receration Department,SSFO_LUNCH,7298,0,0,7298,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Mountain View Whisman School District,Castro Park,SSFO_LUNCH,1090,0,0,1090,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Mountain View Whisman School District,Maryce Freelen Place Apartments,SSFO_LUNCH,551,0,0,551,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Mountain View Whisman School District,Crittenden Middle                                               ,SSFO_BREAKFAST_SEVERENEED,3961,0,0,3961,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Mountain View Whisman School District,Crittenden Middle                                               ,SSFO_LUNCH,5424,0,0,5424,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Mountain View Whisman School District,Rengstorff Park & Receration Department,SSFO_BREAKFAST,4140,0,0,4140,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Mountain View Whisman School District,Rengstorff Park & Receration Department,SSFO_LUNCH,7298,0,0,7298,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Mountain View Whisman School District,Castro Park,SSFO_LUNCH,1090,0,0,1090,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Mountain View Whisman School District,Maryce Freelen Place Apartments,SSFO_LUNCH,551,0,0,551,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Mountain View Whisman School District,Crittenden Middle                                               ,SSFO_BREAKFAST_SEVERENEED,3961,0,0,3961,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Mountain View Whisman School District,Crittenden Middle                                               ,SSFO_LUNCH,5424,0,0,5424,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Mountain View Whisman School District,Rengstorff Park & Receration Department,SSFO_BREAKFAST,4140,0,0,4140,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Mountain View Whisman School District,Rengstorff Park & Receration Department,SSFO_LUNCH,7298,0,0,7298,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Mountain View Whisman School District,Castro Park,SSFO_LUNCH,1090,0,0,1090,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Mountain View Whisman School District,Maryce Freelen Place Apartments,SSFO_LUNCH,551,0,0,551,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Alum Rock Union Elementary School District,Learning in an Urban Community with High Achievement (L.U.C.H.A.,SSFO_LUNCH,3384,0,0,3384,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Alum Rock Union Elementary School District,A. J. Dorsa Elementary                                          ,SSFO_LUNCH,4114,0,0,4114,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Alum Rock Union Elementary School District,Clyde L. Fischer Middle                                         ,SSFO_LUNCH,1412,0,0,1412,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Alum Rock Union Elementary School District,LINDA VISTA ELEMENTARY,SSFO_LUNCH,4136,0,0,4136,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Alum Rock Union Elementary School District,LYNDALE ELEMENTARY,SSFO_LUNCH,1201,0,0,1201,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Alum Rock Union Elementary School District,LEE MATHSON MIDDLE,SSFO_LUNCH,2197,0,0,2197,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Alum Rock Union Elementary School District,William Sheppard Middle                                         ,SSFO_LUNCH,1828,0,0,1828,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Alum Rock Union Elementary School District,Adelante Dual Language Academy,SSFO_LUNCH,2697,0,0,2697,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,San Mateo-Foster City School District,Bayside ACADEMY                                                 ,SSFO_BREAKFAST_SEVERENEED,674,0,0,674,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,San Mateo-Foster City School District,Bayside ACADEMY                                                 ,SSFO_LUNCH,634,0,0,634,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,San Mateo-Foster City School District,LEAD Elementary                                                 ,SSFO_LUNCH,3308,0,0,3308,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,San Mateo-Foster City School District,COLLEGE PARK ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,2294,0,0,2294,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,San Mateo-Foster City School District,COLLEGE PARK ELEMENTARY,SSFO_LUNCH,2539,0,0,2539,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,San Mateo-Foster City School District,Bayside ACADEMY                                                 ,SSFO_BREAKFAST_SEVERENEED,674,0,0,674,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,San Mateo-Foster City School District,Bayside ACADEMY                                                 ,SSFO_LUNCH,634,0,0,634,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,San Mateo-Foster City School District,LEAD Elementary                                                 ,SSFO_LUNCH,3308,0,0,3308,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,San Mateo-Foster City School District,COLLEGE PARK ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,2294,0,0,2294,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,San Mateo-Foster City School District,COLLEGE PARK ELEMENTARY,SSFO_LUNCH,2539,0,0,2539,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Fremont Union High School District,Community Day,SSFO_BREAKFAST_SEVERENEED,1060,0,0,1060,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Fremont Union High School District,Community Day,SSFO_LUNCH,3412,0,0,3412,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Fremont Union High School District,Community Day,SSFO_BREAKFAST_SEVERENEED,1060,0,0,1060,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Fremont Union High School District,Community Day,SSFO_LUNCH,3412,0,0,3412,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Sunnyvale School District,Columbia Middle                                                 ,SSFO_BREAKFAST_SEVERENEED,2514,0,0,2514,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Sunnyvale School District,Columbia Middle                                                 ,SSFO_LUNCH,4895,0,0,4895,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Sunnyvale School District,LAKEWOOD ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,1231,0,0,1231,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Sunnyvale School District,LAKEWOOD ELEMENTARY,SSFO_LUNCH,1463,0,0,1463,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Sunnyvale School District,SAN MIGUEL ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,2156,0,0,2156,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Sunnyvale School District,SAN MIGUEL ELEMENTARY,SSFO_LUNCH,6103,0,0,6103,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Sunnyvale School District,Columbia Middle                                                 ,SSFO_BREAKFAST_SEVERENEED,2514,0,0,2514,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Sunnyvale School District,Columbia Middle                                                 ,SSFO_LUNCH,4895,0,0,4895,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Sunnyvale School District,LAKEWOOD ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,1231,0,0,1231,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Sunnyvale School District,LAKEWOOD ELEMENTARY,SSFO_LUNCH,1463,0,0,1463,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Sunnyvale School District,SAN MIGUEL ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,2156,0,0,2156,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Sunnyvale School District,SAN MIGUEL ELEMENTARY,SSFO_LUNCH,6103,0,0,6103,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,South San Francisco Unified School District,Parkway Heights Middle                                          ,SSFO_BREAKFAST_SEVERENEED,395,0,0,395,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,South San Francisco Unified School District,Parkway Heights Middle                                          ,SSFO_LUNCH,1063,0,0,1063,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,South San Francisco Unified School District,SPRUCE ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,1170,0,0,1170,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,South San Francisco Unified School District,SPRUCE ELEMENTARY,SSFO_LUNCH,1176,0,0,1176,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,South San Francisco Unified School District,SUNSHINE GARDENS ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,839,0,0,839,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,South San Francisco Unified School District,SUNSHINE GARDENS ELEMENTARY,SSFO_LUNCH,1312,0,0,1312,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Oak Grove Elementary School District,Boys & Girls Club,SSFO_BREAKFAST,1346,0,0,1346,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Oak Grove Elementary School District,Boys & Girls Club,SSFO_LUNCH,1726,0,0,1726,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Oak Grove Elementary School District,DEL ROBLE ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,1046,0,0,1046,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Oak Grove Elementary School District,DEL ROBLE ELEMENTARY,SSFO_LUNCH,1423,0,0,1423,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Oak Grove Elementary School District,EDENVALE ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,1301,0,0,1301,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Oak Grove Elementary School District,EDENVALE ELEMENTARY,SSFO_LUNCH,2769,0,0,2769,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Oak Grove Elementary School District,Stipe (Samuel) Elementary                                       ,SSFO_BREAKFAST_SEVERENEED,705,0,0,705,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Oak Grove Elementary School District,Stipe (Samuel) Elementary                                       ,SSFO_LUNCH,743,0,0,743,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Redwood City Elementary School District,TAFT ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,2212,0,0,2212,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Redwood City Elementary School District,TAFT ELEMENTARY,SSFO_LUNCH,2383,0,0,2383,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Redwood City Elementary School District,FAIR OAKS ELEMENTARY,SSFO_LUNCH,1477,0,0,1477,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Redwood City Elementary School District,GARFIELD ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,1255,0,0,1255,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Redwood City Elementary School District,GARFIELD ELEMENTARY,SSFO_LUNCH,2557,0,0,2557,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Redwood City Elementary School District,HAWES ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,1010,0,0,1010,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Redwood City Elementary School District,HAWES ELEMENTARY,SSFO_LUNCH,1189,0,0,1189,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Redwood City Elementary School District,HENRY FORD ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,1659,0,0,1659,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Redwood City Elementary School District,HENRY FORD ELEMENTARY,SSFO_LUNCH,1387,0,0,1387,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Redwood City Elementary School District,HOOVER ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,2786,0,0,2786,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Redwood City Elementary School District,HOOVER ELEMENTARY,SSFO_LUNCH,2861,0,0,2861,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Redwood City Elementary School District,JOHN GILL ELEMENTARY,SSFO_LUNCH,1058,0,0,1058,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Redwood City Elementary School District,John F. Kennedy Middle                                          ,SSFO_BREAKFAST_SEVERENEED,486,0,0,486,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Redwood City Elementary School District,John F. Kennedy Middle                                          ,SSFO_LUNCH,1595,0,0,1595,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Redwood City Elementary School District,ROOSEVELT ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,1148,0,0,1148,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Redwood City Elementary School District,ROOSEVELT ELEMENTARY,SSFO_LUNCH,1227,0,0,1227,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Redwood City Elementary School District,SELBY LANE ELEMENTARY,SSFO_LUNCH,1119,0,0,1119,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Redwood City Elementary School District,TAFT ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,2212,0,0,2212,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Redwood City Elementary School District,TAFT ELEMENTARY,SSFO_LUNCH,2383,0,0,2383,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Redwood City Elementary School District,FAIR OAKS ELEMENTARY,SSFO_LUNCH,1477,0,0,1477,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Redwood City Elementary School District,GARFIELD ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,1255,0,0,1255,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Redwood City Elementary School District,GARFIELD ELEMENTARY,SSFO_LUNCH,2557,0,0,2557,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Redwood City Elementary School District,HAWES ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,1010,0,0,1010,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Redwood City Elementary School District,HAWES ELEMENTARY,SSFO_LUNCH,1189,0,0,1189,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Redwood City Elementary School District,HENRY FORD ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,1659,0,0,1659,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Redwood City Elementary School District,HENRY FORD ELEMENTARY,SSFO_LUNCH,1387,0,0,1387,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Redwood City Elementary School District,HOOVER ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,2786,0,0,2786,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Redwood City Elementary School District,HOOVER ELEMENTARY,SSFO_LUNCH,2861,0,0,2861,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Redwood City Elementary School District,JOHN GILL ELEMENTARY,SSFO_LUNCH,1058,0,0,1058,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Redwood City Elementary School District,John F. Kennedy Middle                                          ,SSFO_BREAKFAST_SEVERENEED,486,0,0,486,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Redwood City Elementary School District,John F. Kennedy Middle                                          ,SSFO_LUNCH,1595,0,0,1595,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Redwood City Elementary School District,ROOSEVELT ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,1148,0,0,1148,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Redwood City Elementary School District,ROOSEVELT ELEMENTARY,SSFO_LUNCH,1227,0,0,1227,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Redwood City Elementary School District,SELBY LANE ELEMENTARY,SSFO_LUNCH,1119,0,0,1119,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,ACE Charter School,ACE Empower Academy                                             ,SSFO_BREAKFAST_SEVERENEED,60,0,0,60,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,ACE Charter School,ACE Empower Academy                                             ,SSFO_LUNCH,58,0,0,58,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,ACE Charter School,ACE Empower Academy                                             ,SSFO_BREAKFAST_SEVERENEED,60,0,0,60,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,ACE Charter School,ACE Empower Academy                                             ,SSFO_LUNCH,58,0,0,58,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Mount Pleasant Elementary School District,August Boeger Middle                                            ,SSFO_BREAKFAST_SEVERENEED,2821,0,0,2821,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Mount Pleasant Elementary School District,August Boeger Middle                                            ,SSFO_LUNCH,5030,0,0,5030,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Mount Pleasant Elementary School District,Mt. Pleasant Elementary                                         ,SSFO_BREAKFAST_SEVERENEED,49,0,0,49,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Mount Pleasant Elementary School District,Mt. Pleasant Elementary                                         ,SSFO_LUNCH,563,0,0,563,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Mount Pleasant Elementary School District,Robert Sanders Elementary                                       ,SSFO_BREAKFAST_SEVERENEED,493,0,0,493,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Mount Pleasant Elementary School District,Robert Sanders Elementary                                       ,SSFO_LUNCH,856,0,0,856,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Mount Pleasant Elementary School District,August Boeger Middle                                            ,SSFO_BREAKFAST_SEVERENEED,2821,0,0,2821,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Mount Pleasant Elementary School District,August Boeger Middle                                            ,SSFO_LUNCH,5030,0,0,5030,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Mount Pleasant Elementary School District,Mt. Pleasant Elementary                                         ,SSFO_BREAKFAST_SEVERENEED,49,0,0,49,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Mount Pleasant Elementary School District,Mt. Pleasant Elementary                                         ,SSFO_LUNCH,563,0,0,563,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Mount Pleasant Elementary School District,Robert Sanders Elementary                                       ,SSFO_BREAKFAST_SEVERENEED,493,0,0,493,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Mount Pleasant Elementary School District,Robert Sanders Elementary                                       ,SSFO_LUNCH,856,0,0,856,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Cristo Rey San Jose High School,Cristo Rey San Jose Jesuit High School,SSFO_BREAKFAST_SEVERENEED,2306,0,0,2306,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Cristo Rey San Jose High School,Cristo Rey San Jose Jesuit High School,SSFO_LUNCH,2287,0,0,2287,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Cristo Rey San Jose High School,Cristo Rey San Jose Jesuit High School,SSFO_BREAKFAST_SEVERENEED,2306,0,0,2306,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Cristo Rey San Jose High School,Cristo Rey San Jose Jesuit High School,SSFO_LUNCH,2287,0,0,2287,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,GILROY UNIFIED SCHOOL DISTRICT,ELIOT ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,2342,0,0,2342,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,GILROY UNIFIED SCHOOL DISTRICT,ELIOT ELEMENTARY,SSFO_LUNCH,3540,0,0,3540,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,GILROY UNIFIED SCHOOL DISTRICT,South Valley Middle                                             ,SSFO_BREAKFAST_SEVERENEED,3837,0,0,3837,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,GILROY UNIFIED SCHOOL DISTRICT,South Valley Middle                                             ,SSFO_LUNCH,10248,0,0,10248,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,GILROY UNIFIED SCHOOL DISTRICT,Antonio Del Buono Elementary                                    ,SSFO_BREAKFAST_SEVERENEED,2632,0,0,2632,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,GILROY UNIFIED SCHOOL DISTRICT,Antonio Del Buono Elementary                                    ,SSFO_LUNCH,3461,0,0,3461,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Millbrae Elementary School District,LOMITA PARK ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,1099,0,0,1099,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Millbrae Elementary School District,LOMITA PARK ELEMENTARY,SSFO_LUNCH,1985,0,0,1985,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Jefferson Elementary School District,WESTLAKE ELEMENTARY,SSFO_LUNCH,712,0,0,712,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Jefferson Elementary School District,Thomas R. Pollicita Middle                                      ,SSFO_BREAKFAST_SEVERENEED,1074,0,0,1074,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Jefferson Elementary School District,Thomas R. Pollicita Middle                                      ,SSFO_LUNCH,1441,0,0,1441,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Jefferson Elementary School District,WESTLAKE ELEMENTARY,SSFO_LUNCH,712,0,0,712,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Jefferson Elementary School District,Thomas R. Pollicita Middle                                      ,SSFO_BREAKFAST_SEVERENEED,1074,0,0,1074,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Jefferson Elementary School District,Thomas R. Pollicita Middle                                      ,SSFO_LUNCH,1441,0,0,1441,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,MORELAND SCHOOL DISTRICT,George C. Payne Elementary                                      ,SSFO_LUNCH,878,0,0,878,2018
+SAN MATEO,Jul 2018,SSFO,NSLP,Jefferson Union High School District,Jefferson High                                                  ,SSFO_LUNCH,299,0,0,299,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Franklin-McKinley Elementary School District,RAMBLEWOOD ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,1301,0,0,1301,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Franklin-McKinley Elementary School District,RAMBLEWOOD ELEMENTARY,SSFO_LUNCH,1234,0,0,1234,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Franklin-McKinley Elementary School District,Bridges Academy                                                 ,SSFO_BREAKFAST_SEVERENEED,482,0,0,482,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Franklin-McKinley Elementary School District,Bridges Academy                                                 ,SSFO_LUNCH,1980,0,0,1980,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Franklin-McKinley Elementary School District,G. W. Hellyer Elementary                                        ,SSFO_BREAKFAST_SEVERENEED,698,0,0,698,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Franklin-McKinley Elementary School District,G. W. Hellyer Elementary                                        ,SSFO_LUNCH,1710,0,0,1710,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Franklin-McKinley Elementary School District,Robert F. Kennedy Elementary                                    ,SSFO_BREAKFAST_SEVERENEED,1897,0,0,1897,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Franklin-McKinley Elementary School District,Robert F. Kennedy Elementary                                    ,SSFO_LUNCH,3255,0,0,3255,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Franklin-McKinley Elementary School District,RAMBLEWOOD ELEMENTARY,SSFO_BREAKFAST_SEVERENEED,1301,0,0,1301,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Franklin-McKinley Elementary School District,RAMBLEWOOD ELEMENTARY,SSFO_LUNCH,1234,0,0,1234,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Franklin-McKinley Elementary School District,Bridges Academy                                                 ,SSFO_BREAKFAST_SEVERENEED,482,0,0,482,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Franklin-McKinley Elementary School District,Bridges Academy                                                 ,SSFO_LUNCH,1980,0,0,1980,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Franklin-McKinley Elementary School District,G. W. Hellyer Elementary                                        ,SSFO_BREAKFAST_SEVERENEED,698,0,0,698,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Franklin-McKinley Elementary School District,G. W. Hellyer Elementary                                        ,SSFO_LUNCH,1710,0,0,1710,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Franklin-McKinley Elementary School District,Robert F. Kennedy Elementary                                    ,SSFO_BREAKFAST_SEVERENEED,1897,0,0,1897,2018
+SANTA CLARA,Jul 2018,SSFO,NSLP,Franklin-McKinley Elementary School District,Robert F. Kennedy Elementary                                    ,SSFO_LUNCH,3255,0,0,3255,2018
