@@ -16,8 +16,8 @@ schoolDistrictToPaidLunchesMap = {}
 schoolDistrictToCountyNameMap = {}
 
 
-f = open('meals.csv')
-g = open('mealscondensed.csv', 'w')
+f = open('Input/meals.csv')
+g = open('Output/mealscondensed.csv', 'w')
 csv_f = csv.reader(f)
 
 def isBreakfast(mealType):

@@ -41,8 +41,8 @@ schoolDistrictNameToReducedPriceEligibleMap = {}
 schoolDistrictNameToPaidEligibleMap = {}
 schoolDistrictNameToCountyMap = {}
 
-f = open('frpm1617.csv')
-g = open('frpmcondensed.csv', 'w')
+f = open('Input/frpm1617.csv')
+g = open('Output/frpmcondensed.csv', 'w')
 csv_f = csv.reader(f)
 rowNum = 0
 

@@ -1,3 +1,4 @@
+rm -rf ./Output/*
 python frpmcondenser.py
 python mealscondenser.py
 python frpmmealscondenser.py

@@ -10,7 +10,7 @@ def removeWhitespaces(someString):
 def getSchoolDaysMap():
 	schoolDaysMap = {}
 
-	m = open('schooldays.csv')
+	m = open('Input/schooldays.csv')
 	csv_m = csv.reader(m)
 
 	for row in csv_m:
@@ -25,9 +25,9 @@ def getSchoolDaysMap():
 
 PERCENT_MULTIPLYING_FACTOR = 100
 
-f = open('frpmcondensed.csv')
-g = open('mealscondensed.csv')
-h = open('frpmmealscondensed.csv', 'w')
+f = open('Output/frpmcondensed.csv')
+g = open('Output/mealscondensed.csv')
+h = open('Output/frpmmealscondensed.csv', 'w')
 
 csv_f = csv.reader(f)
 csv_g = csv.reader(g)
