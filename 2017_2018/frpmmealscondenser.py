@@ -27,7 +27,7 @@ PERCENT_MULTIPLYING_FACTOR = 100
 
 f = open('Output/frpmcondensed.csv')
 g = open('Output/mealscondensed.csv')
-h = open('Output/frpmmealscondensed.csv', 'w')
+h = open('Output/FRPM_final_2017_2018.csv', 'w')
 
 csv_f = csv.reader(f)
 csv_g = csv.reader(g)

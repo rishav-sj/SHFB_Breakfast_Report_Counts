@@ -1,2 +1,4 @@
 *.pyc
 .DS_Store
+2016_2017/Output/*.csv
+2017_2018/Output/*.csv

@@ -1,7 +1,7 @@
 import csv
 
-ignoreList = ['Lakeside Joint', 'Hillsborough City Elementary', 'Loma Prieta Joint Union Elementary', 'Los Altos Elementary', 'Los Gatos-Saratoga Joint Union High', 'Las Lomitas Elementary']
-
+oldIgnoreList = ['Lakeside Joint', 'Hillsborough City Elementary', 'Loma Prieta Joint Union Elementary', 'Los Altos Elementary', 'Los Gatos-Saratoga Joint Union High', 'Las Lomitas Elementary']
+newIgnoreList = ['ST SIMONS CATHOLIC SCHOOL', 'Coalition for Better Schools Inc.']
 
 specialSchoolsMap = {}
 
@@ -12,10 +12,10 @@ specialSchoolsMap['ACE Inspire Academy'] = 'ACE Charter School'
 specialSchoolsMap['ACE Franklin McKinley'] = 'ACE Charter School'
 
 # Alpha Public Schools
-specialSchoolsMap['Cornerstone Academy Preparatory'] = 'Alpha Public Schools Inc'
-specialSchoolsMap['Alpha: Blanca Alvarado Middle'] = 'Alpha Public Schools Inc'
-specialSchoolsMap['Alpha: Jose Hernandez Middle'] = 'Alpha Public Schools Inc'
-specialSchoolsMap['Alpha Cindy Avitia High'] = 'Alpha Public Schools Inc'
+#specialSchoolsMap['Cornerstone Academy Preparatory'] = 'Alpha Public Schools Inc'
+#specialSchoolsMap['Alpha: Blanca Alvarado Middle'] = 'Alpha Public Schools Inc'
+#specialSchoolsMap['Alpha: Jose Hernandez Middle'] = 'Alpha Public Schools Inc'
+#specialSchoolsMap['Alpha Cindy Avitia High'] = 'Alpha Public Schools Inc'
 
 # Rocketship Education
 specialSchoolsMap['Rocketship Alma Academy'] = 'Rocketship Education'
@@ -46,15 +46,19 @@ g = open('Output/frpmcondensed.csv', 'w')
 csv_f = csv.reader(f)
 rowNum = 0
 
+def removeTrailingWhitespace(schoolDistrictName):
+  return schoolDistrictName.rstrip()
+
 def isEligibleCounty(countyName):
 	return (countyName == 'San Mateo') or (countyName == 'Santa Clara')
 
 
+ignoreList = oldIgnoreList + newIgnoreList
 for row in csv_f:
   if (rowNum != 0):
-  	countyName = row[4]
-  	schoolDistrictName = row[5]
-  	schoolName = row[6]
+        countyName = row[4]
+        schoolDistrictName = removeTrailingWhitespace(row[5])
+        schoolName = row[6]
   	if (isEligibleCounty(countyName) and not(schoolDistrictName in ignoreList)):
   		if (not(schoolDistrictName in schoolDistrictNameToTotalEnrollmentMap)):
   			# Initialize maps for this school district
