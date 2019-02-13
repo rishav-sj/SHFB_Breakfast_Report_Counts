@@ -7,8 +7,8 @@ def removeWhitespaces(someString):
 	return someString.lstrip().rstrip().replace('\xef\xbb\xbf','')
 
 
-f = open('frpmmealscondensed.csv')
-g = open('schooldays.csv')
+f = open('Output/FRPM_final_2017_2018.csv')
+g = open('Input/schooldays.csv')
 csv_f = csv.reader(f)
 csv_g = csv.reader(g)
 
